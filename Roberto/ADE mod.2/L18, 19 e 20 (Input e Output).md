@@ -1,0 +1,112 @@
+
+I vari sottoinsiemi di un calcolatore comunicano attraverso interfacce predefinite.
+Questo collegamento è solitamente realizzato mediante un **bus**, che implementa un canale di comunicazione condiviso da più sottosistemi.
+- ![[Pasted image 20230819210819.png]]
+- Vantaggi:
+	- Versatilità (è facile aggiungere o rimuovere dispositivi e le periferiche possono essere spostate tra sistemi diversi che usano lo stesso tipo di bus).
+	- Basso costo.
+- Svantaggi:
+	- La banda del bus limita la massima frequenza di IO e può rappresentate un collo di bottiglia delle prestazioni.
+- Sono composte da insieme di fili che veicolano i segnali elettrici.
+	- Fili di controllo.
+		- Per la richiesta di operazioni di IO.
+		- Per acknowledge delle richieste.
+	- Fili di dati/indirizzi.
+		- Dati per effettuare la richiesta di operazione di IO.
+		- Dati per trasferire i risultati della richiesta di IO.
+- Tipi di bus:
+	- System bus: interconnettono CPU e Memoria (corti e ad alta velocità).
+	- Backplane bus: interconnettono dispositivi diversi con badge di trasferimenti diverse.
+	- IO bus: Interconnettono e gestiscono catene di dischi (come i SATA).
+- Gerarchie di bus:
+	- ![[Pasted image 20230819211639.png]]
+- Esempio di CPU.
+	- pre-2010:
+		- ![[Pasted image 20230819211810.png]]
+	- Moderni:
+		- ![[Pasted image 20230819211836.png]]
+- Bus Sincrono:
+	- Linea di clock condivisa tra gli elementi connessi al bus.
+	- Limitato a bus corti come quelli proprietari di CPU/Memoria.
+	- Con bus lunghi avviene il fenomeno del clock skew (disallineamento del segnale di clock).
+- Bus Asincrono:
+	- Il clock non è condiviso tra gli elementi connessi.
+	- Permette la comunicazione tra periferiche con velocità diverse.
+	- Utilizzato nei BUS standard (USB, SATA, PCIe, etc).
+	- Il protocollo di comunicazione con la IO richiede una sincronizzazione iniziale chiamata Handshaking.
+		- Avviene grazie a 2 segnali che vengono chiamati **Req** e **Ack**.
+		- ![[Pasted image 20230820000806.png]]
+			- All'inizio le linee Req e Ack sono not asserted (voltaggio = 0).
+			- Quando il disp.A trasferisce dei dati li invia sulla linea DATA e imposta Req = 1.
+			- Quando il disp.B si accorge che Req è asserted legge i dati dalla linea DATA.
+			- Quando l'informazione è stata letta imposta Ack = 1.
+			- Quando il disp.A si accorge che Ack è asserted (e la lettura è terminata) imposta Req e DATA = 0.
+			- Quando il disp.B si accorge che Req è tornato not asserted imposta Ack = 0.
+			- ![[Pasted image 20230820001342.png]]
+	- Se il bus è condiviso da più dispositivi serve un arbitraggio per evitare conflitti.
+		- Servono linee aggiuntive oltre a Req e Ack che colleghino i dispositivi all'arbitro del bus.
+		- Le linee permettono di effettuare la richiesta, assegnazione e rilascio del bus.
+		- Gli attori che possono iniziale una transazione sul bus vengono chiamati master del bus.
+		- Esiste una priorità dei dispositivi.
+		- Esempio di Daisy Chain: ![[Pasted image 20230820001815.png]]
+			- Quando un dispositivo vuole trasmettere manda un segnale sulla linea condivisa Request.
+			- Il Bus Arbiter imposta la linea Grant (permetti) = 1 e il dispositivo con maggiore priorità lo intercetta.
+			- Il dispositivo può decidere se prendere il controllo del bus o propagare il segnale ad un dispositivo con priorità maggiore.
+			- Questo si ripete finché un dispositivo (quello che ha mandato la richiesta o uno con più priorità) prende il permesso e imposta il segnale Release = 1 e i Grant precedenti = 0.
+		- Vantaggio: semplice da implementare e richiede pochi segnali di controllo.
+		- Svantaggio: non è fair e un dispositivo con alta priorità può bloccare i dispositivi con priorità più bassa e portarli in "starving".
+		- Esistono altri tipi di arbitri come:
+			- Centralizzato con linee multiple di richiesta e rilasci.
+			- Completamente distribuiti (come Ethernet).
+
+Per effettuare trasferimenti di Input e Output occorre comunicare con il controller di ciascun dispositivo.
+- ![[Pasted image 20230820003128.png]]
+	- Command Register: per inviare comandi al controller.
+	- Status Register: per conoscere cosa sta facendo il device e se c'è stato un errore.
+	- Data Write Register: per trasferire dati verso il device.
+	- Data Read Register: per trasferire dati dal device.
+- Ci sono 2 approcci per leggere e scrivere i registri del controller.
+	- Memory Mapped IO:
+		- I registri del dispositivo sono mappati con locazioni speciali di memoria (registri dedicati al dispositivo).
+		- La CPU legge e scrive quei registri con nomali load e store.
+		- La Memory Management Unit si incarica di indirizzare tali richieste al dispositivo anziché alla RAM.
+	- Istruzioni speciali (metodo più vecchio):
+		- L'ISA della CPU comprende delle istruzioni speciali per leggere e scrivere i registri di determinati controller.
+		- Negli ultimi anni, con un numero sempre maggiore di dispositivi, sarebbe difficile usare questo metodo.
+
+Tipi di gestione dell'IO:
+- La CPU è sempre coinvolta (e completamente in controllo dei dispositivi e della lettura e scrittura dei dati in IO) nei singoli trasferimenti e deve controllare periodicamente lo stato dei dispositivi per determinare se hanno bisogno di trasferire dati. Questo attivo controllo periodico dello stato dei dispositivi si chiama **Polling**.
+	- ![[Pasted image 20230820005710.png]]
+	- Vantaggi:
+		- Utile nelle applicazioni in Real-Time.
+		- Utile se la frequenza di trasferimento.
+	- Svantaggi:
+		- La CPU spreca molti cicli per controllare lo stato dei dispositivi che spesso da esito negativo (la CPU è molto più veloce dei dispositivi IO).
+		- La CPU spreca tempo per trasferire dati dal dispositivo alla RAM.
+- Il dispositivo utilizza interruzioni asincrone per segnalare alla CPU il bisogno di trasmettere dati. Questo metodo grazie al quale la CPU non controlla costantemente ma aspetta il dispositivo si chiama **Interupt-driven IO**.
+	- ![[Pasted image 20230820011156.png]]
+	- Vantaggi:
+		- Utile se il dispositivo comunica raramente o a intervalli temporali non predicibili. La CPU può eseguire altre operazioni.
+		- Non è necessario specificare la frequenza di Polling.
+	- Svantaggi:
+		- L'overhead per la gestione dell'interruzione è molto più alto di quello del polling perché la pipeline va svuotata, occorre salvare lo stato del PC ecc.
+		- L'interupt-driven IO è dispendioso se il dispositivo comunica frequentemente.
+- Un metodo alternativo che non si basa sulla CPU è la **DMA (Direct Memory Access)** nel quale il trasferimento di dati viene controllato dal controller DMA invece che dalla CPU, che invece si limita a fornire al controller le informazioni su quanti dati leggere/scrivere e gli indirizzi coinvolti.
+	- Il trasferimento di dati avviene autonomamente tra dispositivo-DMA-RAM senza l'intervento della CPU.
+	- Al termine la CPU viene notificata con un interrupt.
+	- ![[Pasted image 20230820152931.png]]
+	- Problemi:
+		- La CPU lavora con la RAM solo quando strettamente necessario (intanto comunica con la Cache) e questo può portare la DMA che comunica direttamente con la RAM a leggere e scrivere dati non aggiornati dalla/nella Cache.
+			- Soluzioni:
+				- Si potrebbe far passare tutta l'attività attraverso la Cache. Questo risolve il problema di coerenza ma va a impattare molto sulle prestazioni (I dati di IO sono raramente necessari immediatamente e possono far uscire dalla cache dati utili alla CPU).
+				- Si potrebbe incaricare il SO a invalidare selettivamente la Cache per le richieste IO in lettura e forzi le write-back per le richieste di scrittura. Non richiede modifiche hardware ma il SO è chiamato in causa ad ogni richiesta IO.
+				- Si potrebbero utilizzare tecniche hardware per invalidare in maniera selettiva alcuni blocchi della Cache. Si utilizzano gli stessi meccanismi di Cache coherence dei sistemi multi-processore ed è l'approccio più utilizzato attualmente.
+		- Se la DMA usasse gli indirizzi virtuali non potrebbe tradurli in indirizzi fisici senza la Page Table. Contemporaneamente se usasse gli indirizzi fisici sarebbe limitata alla dimensione di una pagina poiché non è detto che pagine contigue nella memoria fisica lo siano anche nella memoria virtuale.
+			- Soluzioni:
+				- Si può far lavorare il DMA con gli indirizzi virtuali e sarà compito del SO di fornire le tabelle necessarie per la traduzione degli indirizzi.
+				- Si può far lavorare il DNA con indirizzi fisici frammentando il trasferimento in sotto-trasferimenti vincolati alla dimensione delle pagine.
+			- In entrambi i casi il SO deve cooperare con il DMA per trasferimenti che coinvolgono diverse pagine.
+- Confronto:
+	- Se un dispositivo trasferisce pochi dati, raramente, il polling è un ottima soluzione 
+	- Se il dispositivo trasferisce molti dati ma raramente gli interrupt sono una buona soluzione perché la CPU resta libera di fare altro 
+	- Se il dispositivo trasferisce molti dati di continuo, e siamo senza DMA, conviene il polling perché la frequenza di comunicazione è alta e l’overhead del polling è minore rispetto all’interrupt.
