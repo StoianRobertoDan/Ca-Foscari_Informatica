@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "3e8f33dc9eb185ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "9429b90f2ae5cd25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49e10b405d01917c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e06734bf9dc3fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c5557a409fb8b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1f8bc50f6a10dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08e62eb1c263e36e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e27cfc93b90a7e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bcec34e0923aa0ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f02a48661ddfb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32db15867b4dd06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbec90d497f7c895",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6ad625c04e87a9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f3f3c2a1c788570",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anno 2/Basi di Dati/1. Basi di dati.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49e10b405d01917c",
+  "lastOpenFiles": [
+    "Pasted image 20230922203547.png",
+    "Pasted image 20230922203425.png",
+    "Pasted image 20230922202735.png",
+    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
+    "Anno 2/Basi di Dati/1. Basi di dati.md",
+    "Pasted image 20230922194534.png",
+    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
+    "Anno 1/Immagini/Pasted image 20230814151436.png",
+    "Anno 1/Immagini/Pasted image 20230811225135.png",
+    "Anno 1/Immagini/Pasted image 20230807210343.png",
+    "Anno 1/Immagini/Pasted image 20230808141020.png",
+    "Anno 1/Immagini/Pasted image 20230808143120.png",
+    "Anno 1/Immagini/Pasted image 20230808145721.png",
+    "Anno 1/Immagini/Pasted image 20230809232343.png",
+    "Anno 2/Immagini",
+    "Anno 2/Basi di Dati",
+    "Untitled.md",
+    "Anno 2/Algoritmi e Strutture dati",
+    "Anno 1/ADT.md",
+    "Anno 2/Sistemi Operativi",
+    "Anno 2",
+    "Anno 1/Programmazione/Version control system (VCS).md"
+  ]
+}
