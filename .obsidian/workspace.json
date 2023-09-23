@@ -11,15 +11,24 @@
             "id": "49e10b405d01917c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
-                "mode": "source",
-                "source": false
+                "file": "Anno 2/Immagini/Pasted image 20230922203547.png"
+              }
+            }
+          },
+          {
+            "id": "a594c28b80bcf6d0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Anno 2/Immagini/Pasted image 20230922194534.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bcec34e0923aa0ce",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 2/Immagini/Pasted image 20230922194534.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 2/Immagini/Pasted image 20230922194534.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md"
+                "file": "Anno 2/Immagini/Pasted image 20230922194534.png"
               }
             }
           }
@@ -147,15 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49e10b405d01917c",
+  "active": "3b1f8bc50f6a10dc",
   "lastOpenFiles": [
-    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
+    "Anno 2/Immagini/Pasted image 20230922203547.png",
+    "Anno 2/Immagini/Pasted image 20230922203425.png",
+    "Anno 2/Immagini/Pasted image 20230922202735.png",
+    "Anno 2/Immagini/Pasted image 20230922194534.png",
     "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Pasted image 20230922203547.png",
-    "Pasted image 20230922203425.png",
-    "Pasted image 20230922202735.png",
+    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
     "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
-    "Pasted image 20230922194534.png",
     "Anno 1/Immagini/Pasted image 20230814151436.png",
     "Anno 1/Immagini/Pasted image 20230811225135.png",
     "Anno 1/Immagini/Pasted image 20230807210343.png",
