@@ -21,14 +21,26 @@
             "id": "a594c28b80bcf6d0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Anno 2/Immagini/Pasted image 20230922194534.png"
+                "file": "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb097e459e8921d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Immagini/Pasted image 20230922194534.png",
+                "file": "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Immagini/Pasted image 20230922194534.png",
+                "file": "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Immagini/Pasted image 20230922194534.png"
+                "file": "Anno 2/Probabilità e statistica/Calcolo combinatorio.md"
               }
             }
           }
@@ -155,13 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b1f8bc50f6a10dc",
+  "active": "fb097e459e8921d1",
   "lastOpenFiles": [
+    "Anno 2/Basi di Dati/1. Basi di dati.md",
     "Anno 2/Immagini/Pasted image 20230922203547.png",
+    "Anno 2/Immagini/Schemadicombinatoria.png",
     "Anno 2/Immagini/Pasted image 20230922203425.png",
     "Anno 2/Immagini/Pasted image 20230922202735.png",
     "Anno 2/Immagini/Pasted image 20230922194534.png",
-    "Anno 2/Basi di Dati/1. Basi di dati.md",
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Probabilità e statistica",
     "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
     "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
     "Anno 1/Immagini/Pasted image 20230814151436.png",
@@ -169,7 +184,6 @@
     "Anno 1/Immagini/Pasted image 20230807210343.png",
     "Anno 1/Immagini/Pasted image 20230808141020.png",
     "Anno 1/Immagini/Pasted image 20230808143120.png",
-    "Anno 1/Immagini/Pasted image 20230808145721.png",
     "Anno 2/Immagini",
     "Anno 2/Basi di Dati",
     "Untitled.md",
