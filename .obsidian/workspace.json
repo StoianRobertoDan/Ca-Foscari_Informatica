@@ -1,49 +1,48 @@
 {
   "main": {
-    "id": "3e8f33dc9eb185ad",
+    "id": "c639ba058f1da3db",
     "type": "split",
     "children": [
       {
-        "id": "77e64c557b107964",
+        "id": "398a261621138507",
         "type": "tabs",
         "children": [
           {
-            "id": "1e6861ce6de4b325",
+            "id": "b0a9816821722f54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b86927ced0a85196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md",
+                "file": "Anno 1/ADT.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb097e459e8921d1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Anno 2/Immagini/Pasted image 20231002142653.png"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1e06734bf9dc3fd8",
+    "id": "e8b8e4c7b72908e4",
     "type": "split",
     "children": [
       {
-        "id": "87c5557a409fb8b4",
+        "id": "fab3d35b5dd95a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1f8bc50f6a10dc",
+            "id": "93e3da8ffc7db384",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +52,7 @@
             }
           },
           {
-            "id": "08e62eb1c263e36e",
+            "id": "699beea1a182893f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +67,7 @@
             }
           },
           {
-            "id": "9e27cfc93b90a7e4",
+            "id": "4e5528a40fb95175",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,22 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "bcec34e0923aa0ce",
+    "id": "9ce204a4ec01be70",
     "type": "split",
     "children": [
       {
-        "id": "63f02a48661ddfb3",
+        "id": "00129cda49088ef6",
         "type": "tabs",
         "children": [
           {
-            "id": "f32db15867b4dd06",
+            "id": "088a03ad922a8b4c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md",
-                "file": "Anno 2/Immagini/Pasted image 20230922203547.png",
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 1/ADT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,21 +106,19 @@
             }
           },
           {
-            "id": "bbec90d497f7c895",
+            "id": "da2eb7169724ed30",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md",
-                "file": "Anno 2/Immagini/Pasted image 20230922203547.png",
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 1/ADT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e6ad625c04e87a9a",
+            "id": "ebde971b947483b5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,14 +129,12 @@
             }
           },
           {
-            "id": "5f3f3c2a1c788570",
+            "id": "b9320734e7d1c58f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md"
-                "file": "Anno 2/Immagini/Pasted image 20230922203547.png"
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md"
+                "file": "Anno 1/ADT.md"
               }
             }
           }
@@ -162,61 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b1f8bc50f6a10dc",
+  "active": "b86927ced0a85196",
   "lastOpenFiles": [
-    "Pasted image 20231002142539.png",
-    "Anno 2/Immagini/Pasted image 20231002142653.png",
-    "Anno 2/Immagini/Pasted image 20231002142447.png",
-    "Anno 2/Immagini/Pasted image 20230922194534.png",
-    "Anno 2/Immagini/Pasted image 20230922202735.png",
-    "Anno 2/Immagini/Pasted image 20230922203425.png",
-    "Anno 2/Immagini/Pasted image 20230922203547.png",
-    "Anno 2/Immagini/Schemadicombinatoria.png",
-    "Excalidraw/Drawing 2023-09-29 09.52.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 09.52.22.excalidraw.md",
-    "Excalidraw",
-    "Anno 2/Sistemi Operativi/Draft.md",
-    "Anno 2/Basi di Dati/2. (draft).md",
-    "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
-    "Anno 2/Probabilità e statistica",
-    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
-    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
-  "active": "1e6861ce6de4b325",
-  "lastOpenFiles": [
-    "Anno 2/Sistemi Operativi/Draft.md",
-    "Anno 2/Basi di Dati/2. (draft).md",
-    "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 2/Algoritmi e strutture dati/Untitled.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
-    "Anno 2/Probabilità e statistica/Prob draft.md",
-    "Anno 2/Immagini/Pasted image 20231019092334.png",
-    "Anno 2/Immagini/schemacombinazioni.png",
-    "Anno 2/Immagini/Schemadicombinatoria.png",
-    "Anno 2/Immagini/Pasted image 20231019091954.png",
-    "Anno 2/Algoritmi e strutture dati",
-    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/T2.md",
     "Anno 1/Calcolo-Analisi 1/Intorni.md",
-    "Anno 1/Calcolo-Analisi 1",
-    "Anno 2/Immagini/Pasted image 20231002142653.png",
-    "Pasted image 20231002142539.png",
-    "Anno 2/Immagini/Pasted image 20231002142447.png",
-    "Anno 2/Probabilità e statistica",
-    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
-    "Excalidraw/Drawing 2023-09-29 09.52.27.excalidraw.md",
-    "Anno 2/Basi di Dati/Drawing 2023-10-05 13.13.05.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 09.52.22.excalidraw.md",
-    "Excalidraw",
-    "Anno 2/Immagini/Pasted image 20230922203547.png",
-    "Anno 2/Immagini/Pasted image 20230922203425.png",
-    "Anno 2/Immagini/Pasted image 20230922202735.png",
-    "Anno 2/Immagini",
-    "Anno 2/Basi di Dati",
-    "Untitled.md",
-    "Anno 2/Algoritmi e Strutture dati",
-    "Anno 1/ADT.md",
-    "Anno 2/Sistemi Operativi",
-    "Anno 2",
-    "Anno 1/Programmazione/Version control system (VCS).md"
+    "Anno 1/Architettura degli Elaboratori Mod.2/T1.md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L18, 19 e 20 (Input e Output).md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L6, 7 e 8 (Memoria, Cache, Conflitti).md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L1 (MIPS, ISA, Registri).md"
   ]
 }
