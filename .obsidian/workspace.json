@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md"
+                "file": "Anno 2/Algoritmi e strutture dati/Untitled.md"
               }
             }
           }
@@ -143,36 +143,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "1e6861ce6de4b325",
   "lastOpenFiles": [
-    "Anno 1/Calcolo-Analisi 1/Intorni.md",
-    "Anno 1/Calcolo-Analisi 1",
+    "Anno 2/Sistemi Operativi/Draft.md",
     "Anno 2/Basi di Dati/2. (draft).md",
     "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 2/Probabilità e statistica/Prob draft.md",
+    "Anno 2/Algoritmi e strutture dati/Untitled.md",
     "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Probabilità e statistica/Prob draft.md",
+    "Anno 2/Immagini/Pasted image 20231019092334.png",
+    "Anno 2/Immagini/schemacombinazioni.png",
+    "Anno 2/Immagini/Schemadicombinatoria.png",
+    "Anno 2/Immagini/Pasted image 20231019091954.png",
+    "Anno 2/Algoritmi e strutture dati",
+    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
+    "Anno 1/Calcolo-Analisi 1/Intorni.md",
+    "Anno 1/Calcolo-Analisi 1",
     "Anno 2/Immagini/Pasted image 20231002142653.png",
     "Pasted image 20231002142539.png",
     "Anno 2/Immagini/Pasted image 20231002142447.png",
     "Anno 2/Probabilità e statistica",
-    "Anno 2/Immagini/Schemadicombinatoria.png",
     "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
     "Excalidraw/Drawing 2023-09-29 09.52.27.excalidraw.md",
     "Anno 2/Basi di Dati/Drawing 2023-10-05 13.13.05.excalidraw.md",
     "Excalidraw/Drawing 2023-09-29 09.52.22.excalidraw.md",
-    "Anno 2/Sistemi Operativi/Draft.md",
-    "Anno 2/Sistemi Operativi/1. Sistemi Operativi..md",
     "Excalidraw",
     "Anno 2/Immagini/Pasted image 20230922203547.png",
     "Anno 2/Immagini/Pasted image 20230922203425.png",
     "Anno 2/Immagini/Pasted image 20230922202735.png",
-    "Anno 2/Immagini/Pasted image 20230922194534.png",
-    "Anno 1/Immagini/Pasted image 20230814151436.png",
-    "Anno 1/Immagini/Pasted image 20230811225135.png",
     "Anno 2/Immagini",
     "Anno 2/Basi di Dati",
     "Untitled.md",
