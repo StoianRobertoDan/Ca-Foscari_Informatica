@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0a9816821722f54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b86927ced0a85196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 1/ADT.md",
+                "file": "Anno 2/Sistemi Operativi/Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "411d5578265b9464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 2/Basi di Dati/Esercizi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 1/ADT.md",
+                "file": "Anno 2/Sistemi Operativi/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 1/ADT.md",
+                "file": "Anno 2/Sistemi Operativi/Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 1/ADT.md"
+                "file": "Anno 2/Sistemi Operativi/Draft.md"
               }
             }
           }
@@ -157,6 +160,24 @@
   },
   "active": "b86927ced0a85196",
   "lastOpenFiles": [
+    "Anno 2/Sistemi Operativi/1. Introduzione ai Sistemi Operativi..md",
+    "Anno 2/Basi di Dati/Draft SQL.md",
+    "Anno 2/Basi di Dati/Esercizi.md",
+    "Anno 2/Basi di Dati/2. (draft).md",
+    "Anno 2/Sistemi Operativi/Draft.md",
+    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
+    "Anno 2/Basi di Dati/1. Basi di dati.md",
+    "Anno 2/Immagini/Pasted image 20231105192549.png",
+    "Anno 2/Immagini/Pasted image 20231103230118.png",
+    "Anno 2/Immagini/Pasted image 20231103230056.png",
+    "Anno 2/Immagini/Pasted image 20231103184039.png",
+    "Anno 2/Immagini/Pasted image 20231103182110.png",
+    "Anno 2/Algoritmi e strutture dati/Untitled.md",
+    "Anno 2/Immagini/Pasted image 20231031145131.png",
+    "Anno 2/Immagini/Pasted image 20231031142206.png",
+    "Anno 2/Immagini/Pasted image 20231031142140.png",
+    "Anno 2/Immagini/Pasted image 20231031142059.png",
+    "Anno 1/ADT.md",
     "Anno 1/Architettura degli Elaboratori Mod.2/T2.md",
     "Anno 1/Calcolo-Analisi 1/Intorni.md",
     "Anno 1/Architettura degli Elaboratori Mod.2/T1.md",

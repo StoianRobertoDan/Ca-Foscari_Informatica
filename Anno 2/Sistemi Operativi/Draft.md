@@ -30,7 +30,7 @@ Threading di diversi tipi:
 		- Posso usare un sistema operativo che non è multithreating come se lo fosse
 	- Possibile avere un processo con più thread o più processi (relativi allo stesso) con un thread ciascuno. La seconda permette di avere un parallellismo sia a livello superiore che inferiore.
 	- Ogni descrittore di thread è raggruppato nella tabella di thread.
-	-Gestito in tempo di esecuzione dal sistema e mantiene la lista dei thread bloccati e la lista di quelli pronti.
+	- Gestito in tempo di esecuzione dal sistema e mantiene la lista dei thread bloccati e la lista di quelli pronti.
 - Threads a livello kernel:
 	- Modello con mapping di thread 1 a 1.
 	- Lo scheduler agisce a livello più basso. Questo lo rende più efficiente ma anche meno flessibile.
@@ -138,4 +138,111 @@ Algoritmi di scheduling
 	- Spesso usato per sistemi interattivi.
 
 
-24/10
+25/10
+
+Gestione della memoria:
+- Gestione gerarchica:
+	- Memoria cache:
+		- Ha velocità molto alte e dimensioni molto ridotte viene usata per salvare i dati più usati. Se i dati richiesti sono presenti in cache si risparmia molto tempo grazie alla sua velocità di accesso ma serve ottimizzarla bene per far fronte alle dimensioni piccole (es con )
+	- Memoria primaria:
+		- Memorizzazione di dati e programmi neccessari al momento
+	- Memoria secondaria:
+		- Memorizzazione di file e programmi che non servono al momento
+- Organizzazione:
+	- Un processo può usare per intero la memoria
+	- Ad un processo viene concessa una partizione della memoria che può essere:
+		- Statica
+		- Dinamica
+- Gestione e ottimizzazione:
+	-  Quale e quanta memoria riservare e per un determinato processo?
+
+Allocazione:
+- Contigua:
+	- Il programma è salvato in un blocco unito.
+	- Può essere impossibile se il blocco richiesto è troppo grande.
+	- Basso overhead.
+	- Versione Mono Utente:
+		- Assenza di modello d'astrazione e controllo ad un solo utente.
+		- Il S.O. non deve essere danneggiato (sovrascritto) e servono dei registri **Boundaries** che indica da dove inizia la memoria non usata dal S.O. e che può essere usata.
+			- Per ogni azione si controlla che gli indirizzi di memoria non siano fuori dal registri limite
+	- Overlay:
+		- Tecnica che permette di dividere il programma in sezioni logiche e si memorizzano solo quelle in uso.
+		- Ha una zona in cui si salva quella parte del programma sempre in uso e poi una zona di memoria in cui si possono caricare sezioni diverse quando servono (togliendo quella precedente).
+		- Svantaggi:
+			- Difficile organizzare la sovrapposizione (aka overlay) per usare la memoria primaria in modo efficiente.
+			- Complica la modifica dei programmi.
+		- Ha un fine simile alla memoria virtuale (usare più memoria di quella disponibile).
+		- L'esempio usato prende un solo utente e un solo programma ma si possono avere più programmi salvati in blocchi diversi della memoria, ogni blocco diviso nella parte fissa del programma e nella parte dedicata all'overlay (Overlay su più programmi).
+	- Multiprogrammazione a partizioni fisse:
+		- In un processore I/O bound che aspetta molto spesso per delle risposte I/O si può pensare di far lavorare la CPU su altri processi mentre aspetta la risposta per un processo.
+		- Il processore passa rapidamente tra un processo e l'altro dando l'illusione di simultaneità.
+		- Serve una memoria maggiore e serve proteggere la memoria dall'accesso sbagliato durante il cambio del processo.
+			- Quando viene eseguito un processo dentro una partizione serve salvare nei registri gli indirizzi di boundaries della partizione in esecuzione.
+			- Se si cambia partizione serve salvare i nuovi limiti.
+		- Svantaggi:
+			- Le prime implementazioni usavano indirizzi assoluti:
+				- Se la partizione era occupata, il codice non poteva essere caricato.
+			- Si è passati a indirizzi ricolanti (con ):
+				- Si crea una coda unica che distribuisce gli imput in tutte le partizioni di memoria.
+				- Il job viene eseguito in una partizione purchè sia grande abbastanza.
+					- Questo crea il problema che si può inserire nelle partizioni grandi processi che hanno bisogno di poca memoria e i processi grandi   devono aspettare che si liberino tali partizioni.
+			- Frammentazione:
+				- Le partizioni sono spesso più grandi dei processi ma la memoria libera non viene usata e quindi è sprecata.
+			- ![[Pasted image 20231031142206.png]]
+			- ![[Pasted image 20231031142140.png]]
+	- Multiprogrammazione a partizioni variabili:
+		- Le partizioni vengono create in base alle necessità (con la stessa grandezza dei processi che ci vanno dentro). 
+		- Non si crea memoria non sfruttata dentro le partizioni ma se ne crea tra le partizioni quando i processi finiscono e sono in coda processi troppo grandi per i singoli spazi tra le partizioni.
+		- Si può ottimizzare gli spazzi spostando le partizioni in nuovi indirizzi per accumulare gli spazzi liberi vicini in modo da usa.
+		- Strategie di posizionamento della memoria:
+			- First fit: si inserisce il processo nella prima zona disponibile abbastanza grande.
+			- Best fit: si inserisce il processo nella zona disponibile che sprechi il minor spazio possibile.
+			- Worst fit: si inserisce il processo nella zona con la maggiore memoria lasciano 
+	- Multiprogrammazione con swapping:
+		- La memoria principale è divisa in partizioni chiamate "swapping area" che contiene più processi contemporaneamente e le scambia periodicamente salvando quelli non in esecuzione in memoria secondaria.
+	- Gestione della memoria con una "mappa di bit" dove ogni bit si riferisce ad un blocco della memoria e descrive se è occupato o libero o una lista dei blocchi liberi e occupati (con l'informazione H/P, inizio dei blocchi e dimensione).
+- Non contigua:
+	- Il programma è diviso in segmenti che possono essere salvati in punti diversi della memoria
+	- Overhead maggiore
+
+
+31/10
+Memoria virtuale
+- Permette di avere l'illusione di avere più memoria di quella disponibile
+- Utilizza un MMU (Memory management unit), una componente HW per tradurre indirizzi virtuali in indirizzi reale:
+	- ![[Pasted image 20231031145131.png]]
+- Concetti: 
+	- Spazio di memoria virtuale V
+	- Spazio di memoria reale R
+	- Meccanismo di Traduzione Dinamica dei indirizzi (Address) DAT
+- Le pagine virtuali hanno indirizzi collegati alla memoria reale, certi collegamenti sono in memoria principale e altri invece hanno riferimenti in memoria secondaria. Ciò che è salvato in memoria primaria si può usare subito mentre quello che è presente solo in memoria virtuale deve essere caricato in memoria primaria, liberando spazio in memoria principale se serve.
+- Mapping dei blocchi 
+
+
+Varianti della FIFO:
+- Second-Chance:
+	- Esamina il bit di riferimento:
+		- Se è 0 viene tolta
+		- Se è 1 viene settato a 0 e rimessa in coda
+- Ad orologio:
+	- Come la SS ma a ciclo.
+
+Modello Working Set:
+- I processi lavorano nel tempo spesso sugli stessi sottoinsiemi di pagine. Possiamo quindi cercare di mantenere in memoria il sottoinsieme favorito dal programma.
+- I processi mostrano località. Ogni processo usa un certo numero di pagine, è importante capire quante pagine dare ad ogni processo. Si segue l'utilizzo delle pagine del processo e una volta che si vede una stabilizzazione si usa quelle pagine come soglia cercando di diminuire il page fault.
+- Il working set delle pagine del processo in un determinato momento è $W(t,w)$ con t il tempo e w l'intervallo di tempo.
+	- L'insieme di pagine durante l'intervallo di tempo è $[t-w,w]$ 
+
+Dimensione delle pagine:
+- Se abbiamo pagine più piccole:
+	- Avere minor frammentazione interna (se le pagine più piccole lo spazio sprecato nella memoria usata per un certo processo sarà minore).
+	- Può coprire il working set con meno pagine perché le pagine scelte hanno meno informazioni che non vengono in realtà usate.
+	- Minor spreco di memoria.
+	- Tabella delle pagine più grandi.
+- Se abbiamo pagine più grandi:
+	- Riduce la memoria sprecata dalla frammentazione della tabella.
+	- Ogni riga della TLB mappa una memoria più grande con più prestazioni.
+	- Riduce il numero di operazioni I/O (?).
+- Se abbiamo pagine di memoria di diversa grandezza:
+	- Si può avere frammentazione esterna (può rimanere memoria sprecata tra le pagine quando una pagina viene tolta della memoria e si inserisce al suo posto una pagina più piccola).
+

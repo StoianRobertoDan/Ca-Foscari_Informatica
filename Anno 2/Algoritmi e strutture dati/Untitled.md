@@ -129,3 +129,34 @@ b(int n){
 }
 ``` 
 
+
+
+```C
+struct Node{
+	int key;
+	Node* left;
+	Node* right;
+	Node* prev;
+}
+typedef Node* PNode;
+
+int intermedi(PNode r){
+	int sumSottoalbero;
+	return intermediAux(r, 0, sumSottoalbero);
+}
+
+int intermediAux(PNode u, int sump, int& sumSottoalbero){
+	if(u == nullptr){
+		sumSottoalbero = 0;
+		return 0;
+	}
+	
+	int numsx, numdx, sumsx, sumdx;
+	numsx = intermediAux(u->left, sump+u->key, sumsx);
+	numdx = intermediAux(u->right, sump+u->key, sumdx);
+	sumSottoalbero = sumsx + sumdx + u->key;
+	if(sumSottoalbero == sump) return 1 + numsx + numdx;
+	return numsx + numdx;
+}
+```
+Complessità? vedi Onenote
