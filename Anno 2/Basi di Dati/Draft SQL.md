@@ -19,3 +19,63 @@ Es:
 	- Select f.Cognome AS CogNipote, f.Nome AS NomNipote, n.Cognome AS CogNonno, n.Nome AS NomNonno 
 	- From persone f, persone p, persone n
 	- Where f.IdPadre = p.Id AND p.IdPadre = n.Id AND f.Lavoro = n.Lavoro
+
+Es con <>:
+- Selezionare studenti che vivono nella stessa provincia dello studente con matricola 71346 escluso lo studente stesso.
+- Procedimento 1:
+	- Select:
+		- *
+	- From:
+		- Studenti
+	- Where:
+		- Provincia = (
+			- Select:
+				- Provincia
+			- From:
+				- Studenti
+			- Where:
+				- Matricola <>'71346')
+- Procedimento 2:
+	- Select 
+		- Altri.*
+	- From:
+		- Studenti s JOIN Studenti Altri USING (Provincia)
+	- Where:
+		- s.Matricola = '71346' AND Altri.Matricola <> '71346'
+
+Es con EXIST:
+- Studenti con voto maggiore a 27.
+- Procedimento 1:
+	- Select:
+		- *
+	- From:
+		- Studenti.s
+	- Where:
+		- EXIST (
+			- Select:
+			- From:
+				- Esami e
+			- Where:
+				- e.Voto >27 AND e.candidato = s.Matricola)
+- Procedimento 2:
+```sql
+	Select DISTINCT s.*
+	From: Studenti s JOIN Esami e ON s.Matricola = e.Candidato
+	Where: e.voto > 27
+```
+
+
+Es: 
+- Cancella gli studenti che non hanno sostenuto esami
+```sql
+Delete from Studenti
+Where Matricola NOT IN (Select Candidati
+					   From Esami)
+```
+Oppure 
+```sql
+DELETE FROM Studenti S
+WHERE NOT EXISTS (SELECT *
+				 FROM Esami e
+				 WHERE s.Matricola = e.Candidato)
+```
