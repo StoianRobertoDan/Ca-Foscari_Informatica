@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b86927ced0a85196",
+            "id": "7228ae83de545c25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "411d5578265b9464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Basi di Dati/Esercizi.md",
+                "file": "Anno 2/Probabilità e statistica/Cose importanti.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+                "file": "Anno 2/Probabilità e statistica/Cose importanti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+                "file": "Anno 2/Probabilità e statistica/Cose importanti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md"
+                "file": "Anno 2/Probabilità e statistica/Cose importanti.md"
               }
             }
           }
@@ -155,36 +143,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b86927ced0a85196",
+  "active": "7228ae83de545c25",
   "lastOpenFiles": [
-    "Anno 2/Basi di Dati/Draft SQL.md",
-    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
-    "Anno 2/Basi di Dati/Group By.md",
-    "Anno 2/Basi di Dati/Esercizi.md",
+    "Anno 2/Probabilità e statistica/Prob draft.md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Sistemi Operativi/3. Architetture.md",
+    "Anno 2/Sistemi Operativi/4. Processi.md",
+    "Anno 2/Sistemi Operativi/5. Threads.md",
+    "Anno 2/Sistemi Operativi/8. Memoria Virtuale.md",
+    "Anno 2/Sistemi Operativi/9. File System.md",
+    "Anno 2/Sistemi Operativi/6. Scheduling.md",
+    "Anno 2/Sistemi Operativi/11. Linux.md",
+    "Anno 2/Sistemi Operativi/12. Windows.md",
     "Anno 2/Sistemi Operativi/Draft.md",
+    "Anno 2/Sistemi Operativi/7. Memoria fisica (ToDo).md",
+    "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
+    "Anno 2/Immagini/Pasted image 20240118212620.png",
+    "Anno 2/Immagini/Pasted image 20240118205130.png",
+    "Anno 2/Immagini/Pasted image 20240118204959.png",
+    "Anno 2/Immagini/Pasted image 20240118204937.png",
+    "Anno 2/Immagini/Pasted image 20240118200503.png",
+    "Anno 2/Immagini/Pasted image 20240118174732.png",
+    "Anno 2/Immagini/Pasted image 20240118162812.png",
+    "Anno 2/Immagini/Pasted image 20240118160027.png",
+    "Anno 2/Immagini/Pasted image 20240118160002.png",
+    "Anno 2/Sistemi Operativi/10. Input-Output e prestazioni dei Dischi.md",
+    "Anno 2/Sistemi Operativi/2. Hardware.md",
     "Anno 2/Sistemi Operativi/1. Introduzione ai Sistemi Operativi..md",
-    "Anno 2/Basi di Dati/2. (draft).md",
-    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
-    "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 2/Immagini/Pasted image 20231105192549.png",
-    "Anno 2/Immagini/Pasted image 20231103230118.png",
-    "Anno 2/Immagini/Pasted image 20231103230056.png",
-    "Anno 2/Immagini/Pasted image 20231103184039.png",
-    "Anno 2/Immagini/Pasted image 20231103182110.png",
-    "Anno 2/Algoritmi e strutture dati/Untitled.md",
-    "Anno 2/Immagini/Pasted image 20231031145131.png",
-    "Anno 2/Immagini/Pasted image 20231031142206.png",
-    "Anno 2/Immagini/Pasted image 20231031142140.png",
-    "Anno 2/Immagini/Pasted image 20231031142059.png",
-    "Anno 1/ADT.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/T2.md",
-    "Anno 1/Calcolo-Analisi 1/Intorni.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/T1.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L18, 19 e 20 (Input e Output).md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L6, 7 e 8 (Memoria, Cache, Conflitti).md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L1 (MIPS, ISA, Registri).md"
+    "Untitled.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2023-09-29 09.52.22.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-29 09.52.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-04 17.30.43.excalidraw.md",
+    "2024-01-04.md",
+    "Anno 2/Basi di Dati/Esercizi.md",
+    "Anno 2/Basi di Dati/Draft SQL.md",
+    "Anno 2/Basi di Dati/Group By.md",
+    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
+    "Anno 1/Calcolo-Analisi 1"
   ]
 }
