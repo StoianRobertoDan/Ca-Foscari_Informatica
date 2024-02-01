@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/Cose importanti.md",
+                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/Cose importanti.md",
+                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/Cose importanti.md",
+                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/Cose importanti.md"
+                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md"
               }
             }
           }
@@ -149,8 +149,20 @@
   },
   "active": "7228ae83de545c25",
   "lastOpenFiles": [
-    "Anno 2/Probabilità e statistica/Prob draft.md",
+    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
+    "Anno 2/Basi di Dati/Draft SQL.md",
     "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 2/Immagini/Pasted image 20240125145531.png",
+    "Anno 2/Immagini/Pasted image 20240125144748.png",
+    "Anno 2/Immagini/Pasted image 20240125144716.png",
+    "Anno 2/Immagini/Pasted image 20240125143908.png",
+    "Anno 2/Immagini/Pasted image 20240125143211.png",
+    "Anno 2/Immagini/Pasted image 20240125142849.png",
+    "Anno 2/Immagini/Pasted image 20240124200914.png",
+    "Anno 2/Immagini/Pasted image 20240124200627.png",
+    "Anno 2/Immagini/Pasted image 20240124200054.png",
+    "Anno 2/Immagini/Pasted image 20240124191425.png",
+    "Anno 2/Probabilità e statistica/Prob draft.md",
     "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
     "Anno 2/Sistemi Operativi/3. Architetture.md",
     "Anno 2/Sistemi Operativi/4. Processi.md",
@@ -162,16 +174,6 @@
     "Anno 2/Sistemi Operativi/12. Windows.md",
     "Anno 2/Sistemi Operativi/Draft.md",
     "Anno 2/Sistemi Operativi/7. Memoria fisica (ToDo).md",
-    "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
-    "Anno 2/Immagini/Pasted image 20240118212620.png",
-    "Anno 2/Immagini/Pasted image 20240118205130.png",
-    "Anno 2/Immagini/Pasted image 20240118204959.png",
-    "Anno 2/Immagini/Pasted image 20240118204937.png",
-    "Anno 2/Immagini/Pasted image 20240118200503.png",
-    "Anno 2/Immagini/Pasted image 20240118174732.png",
-    "Anno 2/Immagini/Pasted image 20240118162812.png",
-    "Anno 2/Immagini/Pasted image 20240118160027.png",
-    "Anno 2/Immagini/Pasted image 20240118160002.png",
     "Anno 2/Sistemi Operativi/10. Input-Output e prestazioni dei Dischi.md",
     "Anno 2/Sistemi Operativi/2. Hardware.md",
     "Anno 2/Sistemi Operativi/1. Introduzione ai Sistemi Operativi..md",
@@ -182,10 +184,8 @@
     "Excalidraw/Drawing 2024-01-04 17.30.43.excalidraw.md",
     "2024-01-04.md",
     "Anno 2/Basi di Dati/Esercizi.md",
-    "Anno 2/Basi di Dati/Draft SQL.md",
     "Anno 2/Basi di Dati/Group By.md",
     "Anno 2/Basi di Dati/Esame 29.05.2023.md",
-    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
     "Anno 1/Calcolo-Analisi 1"
   ]
 }
