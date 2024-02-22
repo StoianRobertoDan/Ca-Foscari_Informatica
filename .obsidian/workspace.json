@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+                "file": "Anno 2/Basi di Dati II/Lez 20.02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a50698eeb8f931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 2/Algebra Lineare/Numeri complessi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+                "file": "Anno 2/Algebra Lineare/Numeri complessi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+                "file": "Anno 2/Algebra Lineare/Numeri complessi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Basi di Dati/Esame 29.05.2023.md"
+                "file": "Anno 2/Algebra Lineare/Numeri complessi.md"
               }
             }
           }
@@ -147,45 +160,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7228ae83de545c25",
+  "active": "a2a50698eeb8f931",
   "lastOpenFiles": [
+    "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
+    "Anno 2/Immagini/Schemadicombinatoria.png",
+    "Anno 2/Immagini/Pasted image 20240125145531.png",
+    "Anno 2/Immagini/Pasted image 20240221160040.png",
+    "Anno 2/Immagini/Pasted image 20240221154500.png",
+    "Anno 2/Immagini/Pasted image 20240221154732.png",
+    "Anno 2/Immagini/Pasted image 20240221155820.png",
+    "Anno 2/Immagini/Pasted image 20240125144748.png",
+    "Anno 2/Immagini/Pasted image 20240124182124.png",
+    "Anno 2/Immagini/Pasted image 20240123190209.png",
+    "Anno 2/Immagini/Pasted image 20240118162812.png",
+    "Anno 2/Algebra Lineare/Numeri complessi.md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L6, 7 e 8 (Memoria, Cache, Conflitti).md",
+    "Anno 2/Algoritmi e strutture dati/Untitled.md",
+    "Anno 2/Analisi dei Dati/Lez 20.02.md",
+    "Anno 2/Algebra Lineare/Drawing 2024-02-20 18.55.20.excalidraw.md",
+    "Anno 2/Basi di Dati II/Lez 20.02.md",
+    "Excalidraw",
+    "Anno 2/Algebra Lineare",
+    "Anno 1/Calcolo-Analisi 1/Derivate.md",
+    "Excalidraw/Untitled.md",
+    "Anno 2/Basi di Dati II/Lez. 14.02.2024.md",
+    "Anno 2/Programmazione ad Oggetti/Lez..md",
+    "Anno 1/Appunti.md",
+    "Anno 1/ADT.md",
+    "Anno 1/Programmazione/Version control system (VCS).md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 2/Programmazione ad Oggetti",
+    "Anno 2/Analisi dei Dati",
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+    "Anno 2/Basi di Dati II",
     "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
     "Anno 2/Basi di Dati/Draft SQL.md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
-    "Anno 2/Immagini/Pasted image 20240125145531.png",
-    "Anno 2/Immagini/Pasted image 20240125144748.png",
-    "Anno 2/Immagini/Pasted image 20240125144716.png",
-    "Anno 2/Immagini/Pasted image 20240125143908.png",
-    "Anno 2/Immagini/Pasted image 20240125143211.png",
-    "Anno 2/Immagini/Pasted image 20240125142849.png",
-    "Anno 2/Immagini/Pasted image 20240124200914.png",
-    "Anno 2/Immagini/Pasted image 20240124200627.png",
-    "Anno 2/Immagini/Pasted image 20240124200054.png",
-    "Anno 2/Immagini/Pasted image 20240124191425.png",
     "Anno 2/Probabilità e statistica/Prob draft.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
     "Anno 2/Sistemi Operativi/3. Architetture.md",
     "Anno 2/Sistemi Operativi/4. Processi.md",
     "Anno 2/Sistemi Operativi/5. Threads.md",
     "Anno 2/Sistemi Operativi/8. Memoria Virtuale.md",
     "Anno 2/Sistemi Operativi/9. File System.md",
     "Anno 2/Sistemi Operativi/6. Scheduling.md",
-    "Anno 2/Sistemi Operativi/11. Linux.md",
-    "Anno 2/Sistemi Operativi/12. Windows.md",
-    "Anno 2/Sistemi Operativi/Draft.md",
-    "Anno 2/Sistemi Operativi/7. Memoria fisica (ToDo).md",
-    "Anno 2/Sistemi Operativi/10. Input-Output e prestazioni dei Dischi.md",
-    "Anno 2/Sistemi Operativi/2. Hardware.md",
-    "Anno 2/Sistemi Operativi/1. Introduzione ai Sistemi Operativi..md",
-    "Untitled.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-09-29 09.52.22.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-29 09.52.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-04 17.30.43.excalidraw.md",
-    "2024-01-04.md",
-    "Anno 2/Basi di Dati/Esercizi.md",
-    "Anno 2/Basi di Dati/Group By.md",
-    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
     "Anno 1/Calcolo-Analisi 1"
   ]
 }
