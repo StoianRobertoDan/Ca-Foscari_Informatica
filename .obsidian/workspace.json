@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7228ae83de545c25",
+            "id": "a2a50698eeb8f931",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati II/Lez 20.02.md",
+                "file": "Anno 2/Basi di Dati II/4. Forme normali.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2a50698eeb8f931",
+            "id": "6acbb14cdda2a55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Algebra Lineare/Numeri complessi.md",
+                "file": "Anno 2/Basi di Dati II/3. Decomposizione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e1818e9e8456674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Algebra Lineare/Numeri complessi.md",
+                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Algebra Lineare/Numeri complessi.md",
+                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Algebra Lineare/Numeri complessi.md"
+                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md"
               }
             }
           }
@@ -160,8 +172,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2a50698eeb8f931",
+  "active": "5e1818e9e8456674",
   "lastOpenFiles": [
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Code.md",
+    "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
+    "Anno 2/Algebra Lineare/3. Sistemi lineari e Matrici.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 6 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Try.md",
+    "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 7 code.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 6 code.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 5 code.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 4 code.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 4 trycode.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 9 code.md",
+    "Anno 1/Esercitazioni C++/Esercitazione 8 code.md",
+    "Anno 2/Programmazione e Laboratorio/Stream.md",
+    "Anno 2/Programmazione e Laboratorio/Hash Table exercise.md",
+    "Anno 2/Programmazione e Laboratorio/Progetto JSON.md",
+    "Anno 2/Algebra Lineare/1. Numeri complessi.md",
+    "Anno 2/Basi di Dati II/4. Forme normali.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 5 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 4 Code.md",
+    "Anno 2/Basi di Dati II/3. Decomposizione.md",
+    "Anno 2/Algebra Lineare/Drawing 2024-02-20 18.55.20.excalidraw.md",
+    "Anno 2/Algebra Lineare/Lez 06.03.md",
+    "Anno 2/Programmazione ad Oggetti/Lez..md",
+    "Anno 2/Programmazione ad Oggetti/Untitled.md",
+    "Anno 2/Lez. 20.02.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni",
+    "Anno 2/Programmazione e Laboratorio",
     "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
     "Anno 2/Immagini/Schemadicombinatoria.png",
     "Anno 2/Immagini/Pasted image 20240125145531.png",
@@ -172,37 +212,11 @@
     "Anno 2/Immagini/Pasted image 20240125144748.png",
     "Anno 2/Immagini/Pasted image 20240124182124.png",
     "Anno 2/Immagini/Pasted image 20240123190209.png",
-    "Anno 2/Immagini/Pasted image 20240118162812.png",
-    "Anno 2/Algebra Lineare/Numeri complessi.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L6, 7 e 8 (Memoria, Cache, Conflitti).md",
-    "Anno 2/Algoritmi e strutture dati/Untitled.md",
-    "Anno 2/Analisi dei Dati/Lez 20.02.md",
-    "Anno 2/Algebra Lineare/Drawing 2024-02-20 18.55.20.excalidraw.md",
-    "Anno 2/Basi di Dati II/Lez 20.02.md",
     "Excalidraw",
     "Anno 2/Algebra Lineare",
-    "Anno 1/Calcolo-Analisi 1/Derivate.md",
-    "Excalidraw/Untitled.md",
-    "Anno 2/Basi di Dati II/Lez. 14.02.2024.md",
-    "Anno 2/Programmazione ad Oggetti/Lez..md",
-    "Anno 1/Appunti.md",
-    "Anno 1/ADT.md",
-    "Anno 1/Programmazione/Version control system (VCS).md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
     "Anno 2/Programmazione ad Oggetti",
     "Anno 2/Analisi dei Dati",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
-    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
     "Anno 2/Basi di Dati II",
-    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
-    "Anno 2/Basi di Dati/Draft SQL.md",
-    "Anno 2/Probabilità e statistica/Prob draft.md",
-    "Anno 2/Sistemi Operativi/3. Architetture.md",
-    "Anno 2/Sistemi Operativi/4. Processi.md",
-    "Anno 2/Sistemi Operativi/5. Threads.md",
-    "Anno 2/Sistemi Operativi/8. Memoria Virtuale.md",
-    "Anno 2/Sistemi Operativi/9. File System.md",
-    "Anno 2/Sistemi Operativi/6. Scheduling.md",
     "Untitled.canvas",
     "Anno 1/Calcolo-Analisi 1"
   ]

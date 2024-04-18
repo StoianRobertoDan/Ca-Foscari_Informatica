@@ -39,7 +39,7 @@ Esempio:
 - ABD è superchiave:
 	- $ABD^+_{0}$ = ABD (per dimostrazione)
 	- $ABD^+_{1}$ = ABCD (per AB → C)
-	- $ABD^+_{2}$ = ABCDE (per  E → A)
+	- $ABD^+_{2}$ = ABCDE (per  A → E)
 	- $ABD^+_{3}$ = ABCDEF (per B → F)
 - Se un attributo non dipende da niente (non è mai a destra) fa parte necessariamente della chiave
 
