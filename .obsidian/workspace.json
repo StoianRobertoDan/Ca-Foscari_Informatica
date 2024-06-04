@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2a50698eeb8f931",
+            "id": "d5d7eeefa8ed1f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati II/4. Forme normali.md",
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6acbb14cdda2a55c",
+            "id": "548a1d0ef2affa59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati II/3. Decomposizione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e1818e9e8456674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
+                "file": "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Algebra Lineare/2. Spazi vettoriali.md"
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md"
               }
             }
           }
@@ -163,56 +150,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e1818e9e8456674",
+  "active": "d5d7eeefa8ed1f56",
   "lastOpenFiles": [
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Code.md",
-    "Anno 2/Algebra Lineare/2. Spazi vettoriali.md",
-    "Anno 2/Algebra Lineare/3. Sistemi lineari e Matrici.md",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 6 Code.md",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Try.md",
-    "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 7 code.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 6 code.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 5 code.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 4 code.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 4 trycode.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 9 code.md",
-    "Anno 1/Esercitazioni C++/Esercitazione 8 code.md",
+    "Anno 2/Analisi Matematica/4. Limiti.md",
+    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 2/Probabilità e statistica/Prob draft.md",
+    "Anno 2/Analisi Matematica/9. Polinomio di Taylor.md",
+    "Anno 2/Analisi Matematica/8. Studio di una funzione.md",
+    "Anno 2/Analisi Matematica/7. Proprietà locali.md",
+    "Anno 2/Analisi Matematica/6. Derivate.md",
+    "Anno 2/Analisi Matematica/2. Funzioni.md",
+    "Anno 2/Analisi Matematica/5. Funzioni continue e limiti notevoli.md",
+    "Anno 2/Analisi Matematica/3. Funzioni elementari.md",
+    "Anno 2/Immagini/Pasted image 20240603181247.png",
+    "Anno 2/Immagini/Pasted image 20240603181231.png",
+    "Anno 2/Immagini/Pasted image 20240603181214.png",
+    "Anno 2/Immagini/Pasted image 20240603000944.png",
+    "Anno 2/Immagini/Pasted image 20240603000657.png",
+    "Anno 2/Immagini/Pasted image 20240603000542.png",
+    "Anno 2/Analisi Matematica/1. Insiemi.md",
     "Anno 2/Programmazione e Laboratorio/Stream.md",
-    "Anno 2/Programmazione e Laboratorio/Hash Table exercise.md",
+    "Anno 2/Analisi Matematica",
     "Anno 2/Programmazione e Laboratorio/Progetto JSON.md",
-    "Anno 2/Algebra Lineare/1. Numeri complessi.md",
-    "Anno 2/Basi di Dati II/4. Forme normali.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 11 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 10 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 9 Correzione.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 8 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Try.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 6 Code.md",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 5 Code.md",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 4 Code.md",
-    "Anno 2/Basi di Dati II/3. Decomposizione.md",
-    "Anno 2/Algebra Lineare/Drawing 2024-02-20 18.55.20.excalidraw.md",
-    "Anno 2/Algebra Lineare/Lez 06.03.md",
-    "Anno 2/Programmazione ad Oggetti/Lez..md",
-    "Anno 2/Programmazione ad Oggetti/Untitled.md",
-    "Anno 2/Lez. 20.02.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 2 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 1 Code.md",
+    "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
+    "Excalidraw",
+    "Anno 2/Algebra Lineare/Untitled.canvas",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni",
     "Anno 2/Programmazione e Laboratorio",
     "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
     "Anno 2/Immagini/Schemadicombinatoria.png",
     "Anno 2/Immagini/Pasted image 20240125145531.png",
     "Anno 2/Immagini/Pasted image 20240221160040.png",
-    "Anno 2/Immagini/Pasted image 20240221154500.png",
-    "Anno 2/Immagini/Pasted image 20240221154732.png",
-    "Anno 2/Immagini/Pasted image 20240221155820.png",
-    "Anno 2/Immagini/Pasted image 20240125144748.png",
-    "Anno 2/Immagini/Pasted image 20240124182124.png",
-    "Anno 2/Immagini/Pasted image 20240123190209.png",
-    "Excalidraw",
     "Anno 2/Algebra Lineare",
     "Anno 2/Programmazione ad Oggetti",
     "Anno 2/Analisi dei Dati",
