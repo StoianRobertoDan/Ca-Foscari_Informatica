@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md"
+                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md"
               }
             }
           }
@@ -150,25 +150,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "d5d7eeefa8ed1f56",
   "lastOpenFiles": [
-    "Anno 2/Analisi Matematica/4. Limiti.md",
     "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
     "Anno 2/Probabilità e statistica/Cose importanti.md",
     "Anno 2/Probabilità e statistica/Prob draft.md",
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
     "Anno 2/Analisi Matematica/9. Polinomio di Taylor.md",
     "Anno 2/Analisi Matematica/8. Studio di una funzione.md",
     "Anno 2/Analisi Matematica/7. Proprietà locali.md",
+    "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
+    "Anno 2/Analisi Matematica/4. Limiti.md",
     "Anno 2/Analisi Matematica/6. Derivate.md",
     "Anno 2/Analisi Matematica/2. Funzioni.md",
     "Anno 2/Analisi Matematica/5. Funzioni continue e limiti notevoli.md",
@@ -193,7 +194,6 @@
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 5 Code.md",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 2 Code.md",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 1 Code.md",
-    "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
     "Excalidraw",
     "Anno 2/Algebra Lineare/Untitled.canvas",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni",
