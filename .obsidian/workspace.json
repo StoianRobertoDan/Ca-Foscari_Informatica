@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "548a1d0ef2affa59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9ce204a4ec01be70",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md"
+                "file": "Anno 2/Probabilità e statistica/1. Probabilità elementare.md"
               }
             }
           }
@@ -161,14 +150,19 @@
   },
   "active": "d5d7eeefa8ed1f56",
   "lastOpenFiles": [
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
     "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
     "Anno 2/Probabilità e statistica/Cose importanti.md",
     "Anno 2/Probabilità e statistica/Prob draft.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 11 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 10 Code.md",
+    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 9 Correzione.md",
+    "Anno 2/Programmazione e Laboratorio/Stream.md",
+    "Anno 2/Programmazione e Laboratorio/Progetto JSON.md",
+    "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
     "Anno 2/Analisi Matematica/9. Polinomio di Taylor.md",
     "Anno 2/Analisi Matematica/8. Studio di una funzione.md",
     "Anno 2/Analisi Matematica/7. Proprietà locali.md",
-    "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
     "Anno 2/Analisi Matematica/4. Limiti.md",
     "Anno 2/Analisi Matematica/6. Derivate.md",
     "Anno 2/Analisi Matematica/2. Funzioni.md",
@@ -181,12 +175,7 @@
     "Anno 2/Immagini/Pasted image 20240603000657.png",
     "Anno 2/Immagini/Pasted image 20240603000542.png",
     "Anno 2/Analisi Matematica/1. Insiemi.md",
-    "Anno 2/Programmazione e Laboratorio/Stream.md",
     "Anno 2/Analisi Matematica",
-    "Anno 2/Programmazione e Laboratorio/Progetto JSON.md",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 11 Code.md",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 10 Code.md",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 9 Correzione.md",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 8 Code.md",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Try.md",
     "Anno 2/Programmazione e Laboratorio/Esercitazioni/Esercitazione 7 Code.md",
