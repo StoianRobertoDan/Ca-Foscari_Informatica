@@ -4,18 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "398a261621138507",
+        "id": "7b0d2b2f03ad5d40",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb9bc25383fa032",
+            "id": "5befbf085c871cbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Algoritmi di chiusura, chiavi e canonizzazione"
+            }
+          },
+          {
+            "id": "82e462b8848a0a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Excalidraw Writing Machine"
+            }
+          },
+          {
+            "id": "3851198c2152871c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 3/Computer programming & laboratory/Exercises/3..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -34,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +88,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Distribuzioni di variabili aleatorie discrete"
             }
           },
           {
@@ -97,9 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Distribuzioni di variabili aleatorie discrete"
             }
           },
           {
@@ -110,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +168,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Distribuzioni di variabili aleatorie discrete"
             }
           }
         ]
@@ -130,63 +184,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "93e3da8ffc7db384",
+  "active": "82e462b8848a0a8c",
   "lastOpenFiles": [
-    "Anno 3/Reti di calcolatori/Datalink layer.md",
-    "Anno 3/Ingegneria del software/Introduzione.md",
-    "Anno 3/Data e Web Mining/Senza nome.md",
-    "Anno 3/Reti di calcolatori",
-    "Anno 3/Ingegneria del software",
-    "Anno 3/Data e Web Mining",
-    "Anno 3",
-    "Anno 2/Programmazione ad Oggetti/Senza nome.md",
-    "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
-    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
-    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
-    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-    "Anno 2/Probabilità e statistica/2. Probabilità condizionata.md",
-    "Anno 2/Immagini/Pasted image 20240724154042.png",
-    "Anno 2/Immagini/Pasted image 20240723173421.png",
-    "Anno 2/Immagini/Pasted image 20240723154846.png",
-    "Anno 2/Immagini/Pasted image 20240722221446.png",
-    "Anno 2/Immagini/Pasted image 20240718213043.png",
-    "Anno 2/Immagini/Pasted image 20240718211538.png",
-    "Anno 2/Immagini/Pasted image 20240710000955.png",
-    "Anno 2/Immagini/Pasted image 20240709235726.png",
-    "Anno 2/Immagini/Pasted image 20240709223706.png",
-    "Anno 2/Immagini/Pasted image 20240709223433.png",
-    "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 2/Basi di Dati/2. (draft).md",
-    "Anno 2/Programmazione ad Oggetti/Lez..md",
-    "Anno 2/Analisi Matematica/1. Insiemi.md",
-    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
-    "Anno 2/Algebra Lineare/4. Sistemi lineari e Matrici.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
-    "Anno 2/Probabilità e statistica/Prob draft.md",
-    "Anno 2/Analisi Matematica/9. Polinomio di Taylor.md",
-    "Anno 2/Analisi Matematica/8. Studio di una funzione.md",
-    "Anno 2/Analisi Matematica/7. Proprietà locali.md",
-    "Anno 2/Analisi Matematica/4. Limiti.md",
-    "Anno 2/Analisi Matematica/6. Derivate.md",
-    "Anno 2/Analisi Matematica/2. Funzioni.md",
-    "Anno 2/Analisi Matematica/5. Funzioni continue e limiti notevoli.md",
-    "Anno 2/Analisi Matematica",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Anno 3/Analisi/Drawing 2025-03-25 16.02.59.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Set Grid.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
+    "Excalidraw/Scripts/Downloaded/Image Occlusion.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2025-03-25 16.05.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-25 16.05.26.excalidraw.md",
     "Excalidraw",
+    "Anno 3/Analisi/Untitled.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 03.24.md",
+    "Anno 3/Analisi",
+    "Anno 3/Basi di Dati/Mod.2/2. Keys and canonical cover.md",
+    "Anno 3/Computer programming & laboratory/Exercises/3..md",
+    "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
+    "Anno 3/Computer programming & laboratory/Exercises",
+    "Anno 3/Project management/Lez. 19.02",
+    "Anno 3/Analisi dei dati",
+    "Anno 3/Basi di Dati/Mod.2",
+    "Anno 3/Computer programming & laboratory",
+    "Anno 3/Project management",
     "Anno 2/Algebra Lineare/Untitled.canvas",
-    "Anno 2/Programmazione e Laboratorio/Esercitazioni",
-    "Anno 2/Programmazione e Laboratorio",
-    "Anno 2/Algebra Lineare",
-    "Anno 2/Programmazione ad Oggetti",
     "Untitled.canvas"
   ]
 }

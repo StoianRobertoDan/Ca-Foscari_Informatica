@@ -1,4 +1,4 @@
-
+	
 ```cpp
 void rimuovidoppie(string &s)
 {
