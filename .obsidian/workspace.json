@@ -4,49 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0d2b2f03ad5d40",
+        "id": "a537c24be7cbe517",
         "type": "tabs",
         "children": [
           {
-            "id": "5befbf085c871cbe",
+            "id": "2aac188d4dfe3b31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+                "file": "Anno 3/Computer programming & laboratory/Exercises/5..md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2. Algoritmi di chiusura, chiavi e canonizzazione"
+              "title": "5."
             }
           },
           {
-            "id": "82e462b8848a0a8c",
+            "id": "f7420548355f0d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+                "file": "Anno 3/Computer programming & laboratory/Exercises/4..md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Excalidraw Writing Machine"
-            }
-          },
-          {
-            "id": "3851198c2152871c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 3/Computer programming & laboratory/Exercises/3..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3."
+              "title": "4."
             }
           }
         ],
@@ -123,17 +129,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+                "file": "Anno 3/Project management/1. Project Management Intro.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Distribuzioni di variabili aleatorie discrete"
+              "title": "Backlinks for 1. Project Management Intro"
             }
           },
           {
@@ -142,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+                "file": "Anno 3/Project management/1. Project Management Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 4. Distribuzioni di variabili aleatorie discrete"
+              "title": "Outgoing links from 1. Project Management Intro"
             }
           },
           {
@@ -157,7 +163,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -169,10 +177,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md"
+                "file": "Anno 3/Project management/1. Project Management Intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Distribuzioni di variabili aleatorie discrete"
+              "title": "Outline of 1. Project Management Intro"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "861db5816552062f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3851198c2152871c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -184,7 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,47 +224,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "82e462b8848a0a8c",
+  "active": "f7420548355f0d17",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
-    "Anno 3/Analisi/Drawing 2025-03-25 16.02.59.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
-    "Excalidraw/Scripts/Downloaded/Image Occlusion.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Resins.md",
+    "Anno 2/Immagini/Pasted image 20250328170538.png",
+    "Anno 3/Computer programming & laboratory/Exercises/4..md",
+    "Anno 3/Computer programming & laboratory/Exercises/1..md",
+    "Anno 2/Immagini/Pasted image 20250328151125.png",
+    "Anno 2/Immagini/Pasted image 20250328151107.png",
+    "Anno 2/Immagini/Pasted image 20250328150830.png",
+    "Anno 2/Immagini/Pasted image 20250328150737.png",
+    "Anno 2/Immagini/Pasted image 20250328150706.png",
+    "Anno 2/Immagini/Pasted image 20250328150540.png",
+    "Anno 2/Immagini/Pasted image 20250328150525.png",
+    "Anno 3/Computer programming & laboratory/Exercises/5..md",
+    "Anno 3/Computer programming & laboratory/Exercises/3..md",
+    "Anno 2/Immagini/Pasted image 20250327123653.png",
+    "Anno 3/Project management/1. Project Management Intro.md",
+    "Anno 2/Immagini/Pasted image 20250326184817.png",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L4 (Forwarding, Branches, Predizioni, Circuito risultante).md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 1/Sistemi Operativi/8. Memoria Virtuale.md",
+    "Anno 1/Sistemi Operativi/Draft.md",
+    "Anno 3/Computer programming & laboratory/Json parser.md",
+    "Anno 3/Computer programming & laboratory/Calculator parser.md",
+    "Anno 1/Spiegazione info venerdì.md",
+    "Anno 1/Appunti double link list.md",
+    "Anno 1/Appunti.md",
+    "Anno 1/ADT.md",
+    "Anno 1/C++/18. Overloading degli operatori.md",
+    "Anno 1/Programmazione/Version control system (VCS).md",
+    "Anno 1/C++/9. Funzioni.md",
+    "Anno 1/C++/6.5 Stringhe.md",
+    "Anno 1/C++/4. Dati.md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/T1.md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L18, 19 e 20 (Input e Output).md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L14, 15, 16 e 17 (Assembly).md",
+    "Anno 1/Architettura degli Elaboratori Mod.2/L11, 12 e 13 (ARMv8A).md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2025-03-25 16.05.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-25 16.05.26.excalidraw.md",
     "Excalidraw",
-    "Anno 3/Analisi/Untitled.md",
-    "Anno 3/Basi di Dati/Mod.2/Lez. 03.24.md",
     "Anno 3/Analisi",
-    "Anno 3/Basi di Dati/Mod.2/2. Keys and canonical cover.md",
-    "Anno 3/Computer programming & laboratory/Exercises/3..md",
-    "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
-    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
     "Anno 3/Computer programming & laboratory/Exercises",
     "Anno 3/Project management/Lez. 19.02",
     "Anno 3/Analisi dei dati",
