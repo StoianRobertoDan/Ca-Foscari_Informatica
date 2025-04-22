@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aac188d4dfe3b31",
+            "id": "2e63a295840dbf0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Computer programming & laboratory/Exercises/5..md",
+                "file": "Viaggio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5."
-            }
-          },
-          {
-            "id": "f7420548355f0d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 3/Computer programming & laboratory/Exercises/4..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4."
+              "title": "Viaggio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Standardizza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 3/Project management/1. Project Management Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Project Management Intro"
+              "title": "Outline"
             }
           }
         ],
@@ -214,53 +188,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7420548355f0d17",
+  "active": "2e63a295840dbf0a",
   "lastOpenFiles": [
     "Resins.md",
-    "Anno 2/Immagini/Pasted image 20250328170538.png",
-    "Anno 3/Computer programming & laboratory/Exercises/4..md",
-    "Anno 3/Computer programming & laboratory/Exercises/1..md",
-    "Anno 2/Immagini/Pasted image 20250328151125.png",
-    "Anno 2/Immagini/Pasted image 20250328151107.png",
-    "Anno 2/Immagini/Pasted image 20250328150830.png",
-    "Anno 2/Immagini/Pasted image 20250328150737.png",
-    "Anno 2/Immagini/Pasted image 20250328150706.png",
-    "Anno 2/Immagini/Pasted image 20250328150540.png",
-    "Anno 2/Immagini/Pasted image 20250328150525.png",
+    "Viaggio.md",
+    "Anno 3/Computer programming & laboratory/Exercises/6..md",
+    "Anno 3/Analisi dei dati/lez. 04.03.md",
+    "Anno 3/Analisi dei dati/Lez. 04.01.md",
+    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 3/Computer programming & laboratory/Exercises/5..md",
-    "Anno 3/Computer programming & laboratory/Exercises/3..md",
-    "Anno 2/Immagini/Pasted image 20250327123653.png",
-    "Anno 3/Project management/1. Project Management Intro.md",
-    "Anno 2/Immagini/Pasted image 20250326184817.png",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L4 (Forwarding, Branches, Predizioni, Circuito risultante).md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
-    "Anno 1/Sistemi Operativi/8. Memoria Virtuale.md",
-    "Anno 1/Sistemi Operativi/Draft.md",
-    "Anno 3/Computer programming & laboratory/Json parser.md",
-    "Anno 3/Computer programming & laboratory/Calculator parser.md",
-    "Anno 1/Spiegazione info venerdì.md",
-    "Anno 1/Appunti double link list.md",
-    "Anno 1/Appunti.md",
-    "Anno 1/ADT.md",
-    "Anno 1/C++/18. Overloading degli operatori.md",
-    "Anno 1/Programmazione/Version control system (VCS).md",
-    "Anno 1/C++/9. Funzioni.md",
-    "Anno 1/C++/6.5 Stringhe.md",
-    "Anno 1/C++/4. Dati.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/T1.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L18, 19 e 20 (Input e Output).md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L14, 15, 16 e 17 (Assembly).md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L11, 12 e 13 (ARMv8A).md",
+    "attachments/Pasted image 20250408172857.png",
+    "Anno 3/Analisi dei dati/Lez. 03.18.md",
+    "attachments/Pasted image 20250402154548.png",
+    "^standardizzazione.md",
+    "Anno 2/Basi di Dati II/4. Forme normali.md",
+    "Anno 2/Basi di Dati II/3. Decomposizione.md",
+    "Anno 2/Basi di Dati II/1. Normalizzazione.md",
+    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
+    "Anno 2/Basi di Dati/Group By.md",
+    "Anno 2/Basi di Dati/Esercizi.md",
+    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
+    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+    "Anno 2/Basi di Dati/Draft SQL.md",
+    "Anno 2/Basi di Dati/2. (draft).md",
+    "Anno 2/Basi di Dati/1. Basi di dati.md",
+    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
+    "attachments/Pasted image 20250401134113.png",
+    "attachments/Pasted image 20250401133941.png",
+    "attachments",
+    "Anno 3/Analisi dei dati/1. Population and sample.md",
+    "Anno 3/Analisi dei dati/0. Prerequisites.md",
+    "Anno 3/Immagini/Pasted image 20250218105536.png",
+    "Anno 3/Immagini",
+    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
+    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+    "Anno 3/Immagini/Pasted image 20250328170538.png",
+    "Anno 3/Immagini/Pasted image 20250328151125.png",
+    "Anno 3/Immagini/Pasted image 20250328151107.png",
+    "Anno 3/Immagini/Pasted image 20250328150830.png",
+    "Anno 3/Immagini/Pasted image 20250328150737.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
@@ -269,8 +245,6 @@
     "Anno 3/Project management/Lez. 19.02",
     "Anno 3/Analisi dei dati",
     "Anno 3/Basi di Dati/Mod.2",
-    "Anno 3/Computer programming & laboratory",
-    "Anno 3/Project management",
     "Anno 2/Algebra Lineare/Untitled.canvas",
     "Untitled.canvas"
   ]

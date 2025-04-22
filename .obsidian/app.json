@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "Anno 2/Immagini"
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true
 }
