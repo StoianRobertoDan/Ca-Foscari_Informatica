@@ -11,12 +11,24 @@
             "id": "2e63a295840dbf0a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg"
+                "file": "Anno 3/Computer programming & laboratory/Exercises/8..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Expand rectangles vertically keep text centered"
+              "icon": "lucide-file",
+              "title": "8."
             }
           }
         ]
@@ -185,8 +197,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93e3da8ffc7db384",
+  "active": "2e63a295840dbf0a",
   "lastOpenFiles": [
+    "Anno 3/Immagini/Pasted image 20250429174338.png",
+    "Anno 3/Immagini/Pasted image 20250429174318.png",
+    "Anno 3/Immagini/Pasted image 20250429174244.png",
+    "Anno 3/Computer programming & laboratory/Exercises/4..md",
+    "Anno 3/Computer programming & laboratory/Exercises/8..md",
+    "Anno 3/Computer programming & laboratory/Exercises/3..md",
+    "Anno 3/Computer programming & laboratory/Exercises/2..md",
+    "Anno 3/Computer programming & laboratory/Exercises/1..md",
+    "Anno 3/Computer programming & laboratory/Exercises/6..md",
+    "Anno 3/Computer programming & laboratory/Exercises/5..md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
@@ -197,7 +220,6 @@
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
-    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.out",
     "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie9-1.png",
     "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie8-1.png",
     "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie7-1.png",
@@ -205,9 +227,6 @@
     "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie6-1.png",
     "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie5.png",
     "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie5-1.png",
-    "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie4.png",
-    "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie4-1.png",
-    "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie2.png",
     "Materiali/Programmazione e Lab/progetto-23-24-main/README.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
@@ -215,24 +234,17 @@
     "Anno 3/Project management/1. Project Management Intro.md",
     "Anno 3/Project management/9. Risks.md",
     "Anno 3/Computer programming & laboratory/Exercises/7..md",
-    "Anno 3/Computer programming & laboratory/Exercises/6..md",
     "Resins.md",
     "Viaggio.md",
     "Anno 3/Analisi dei dati/lez. 04.03.md",
     "Anno 3/Analisi dei dati/Lez. 04.01.md",
     "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
-    "Anno 3/Computer programming & laboratory/Exercises/5..md",
     "Anno 3/Analisi dei dati/Lez. 03.18.md",
     "^standardizzazione.md",
     "Anno 2/Basi di Dati II/4. Forme normali.md",
     "Anno 2/Basi di Dati II/3. Decomposizione.md",
     "Anno 2/Basi di Dati II/1. Normalizzazione.md",
     "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
-    "Anno 2/Basi di Dati/Group By.md",
-    "Anno 2/Basi di Dati/Esercizi.md",
-    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
-    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
-    "Anno 2/Basi di Dati/Draft SQL.md",
     "Anno 2/Algebra Lineare/Untitled.canvas",
     "Untitled.canvas"
   ]
