@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Computer programming & laboratory/Exercises/9..md",
+                "file": "Anno 3/Project management/2.0. Project Management Knowledge Areas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9."
-            }
-          },
-          {
-            "id": "f1ae20ecda3ff598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 3/Computer programming & laboratory/Exercises/10..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10."
+              "title": "2.0. Project Management Knowledge Areas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,28 +197,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1ae20ecda3ff598",
+  "active": "2e63a295840dbf0a",
   "lastOpenFiles": [
+    "Anno 3/Project management/2.1. Agile Methodologies.md",
+    "Anno 3/Project management/2.2 Project Life Cycle.md",
+    "Anno 3/Project management/0. Project and Organisation.md",
+    "Anno 3/Project management/2.0. Project Management Knowledge Areas.md",
+    "Anno 3/Project management/3. Scope, Requirements and Communication.md",
+    "Anno 3/Project management/5. Resources and Team.md",
+    "Anno 3/Project management/4. Project Schedule Management.md",
+    "Anno 3/Project management/8. Project Quality Management.md",
+    "Anno 3/Project management/6. Project Cost Management.md",
+    "Anno 3/Project management/9. Project Risks Management.md",
+    "Anno 3/Project management/1. Project Management and Processes.md",
+    "Anno 3/Immagini/Pasted image 20250525165816.png",
+    "Anno 3/Project management/Lez. 02.27 From 49 of 3.0.md",
+    "Anno 3/Immagini/Pasted image 20250525161119.png",
+    "Anno 3/Immagini/Pasted image 20250525155104.png",
+    "Anno 3/Immagini/Pasted image 20250525154918.png",
+    "Anno 3/Immagini/Pasted image 20250525154829.png",
+    "Anno 3/Immagini/Pasted image 20250525002409.png",
+    "Anno 3/Immagini/Pasted image 20250524150735.png",
+    "Anno 3/Immagini/Pasted image 20250524145428.png",
+    "Anno 3/Immagini/Pasted image 20250524144959.png",
+    "Anno 3/Project management/Lez. 02.19.md",
+    "Anno 3/Project management/Untitled 2.md",
+    "Anno 3/Project management/Untitled 1.md",
+    "Anno 1/Spiegazione info venerdì.md",
+    "Anno 1/Appunti double link list.md",
+    "Anno 1/Appunti.md",
+    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+    "Anno 2/Lez. 20.02.md",
+    "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
     "Anno 3/Computer programming & laboratory/Exercises/9..md",
     "Anno 3/Computer programming & laboratory/Exercises/10..md",
-    "Anno 3/Project management/1.1. Project Management processes.md",
-    "Anno 3/Project management/1. Project Management Intro.md",
-    "Anno 3/Immagini/Pasted image 20250501224310.png",
-    "Anno 3/Immagini/Pasted image 20250501224215.png",
-    "Anno 3/Immagini/Pasted image 20250501224127.png",
-    "Anno 3/Immagini/Pasted image 20250501224025.png",
     "Anno 3/Computer programming & laboratory/Exercises/7..md",
     "Anno 3/Computer programming & laboratory/Exercises/6..md",
     "Anno 3/Computer programming & laboratory/Exercises/8..md",
-    "Anno 3/Immagini/Pasted image 20250429174338.png",
-    "Anno 3/Immagini/Pasted image 20250429174318.png",
-    "Anno 3/Immagini/Pasted image 20250429174244.png",
-    "Anno 3/Computer programming & laboratory/Exercises/4..md",
-    "Anno 3/Computer programming & laboratory/Exercises/3..md",
-    "Anno 3/Computer programming & laboratory/Exercises/2..md",
-    "Anno 3/Computer programming & laboratory/Exercises/1..md",
-    "Anno 3/Computer programming & laboratory/Exercises/5..md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
@@ -254,22 +244,6 @@
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
-    "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie9-1.png",
-    "Materiali/Programmazione e Lab/progetto-23-24-main/figures/trie8-1.png",
-    "Materiali/Programmazione e Lab/progetto-23-24-main/README.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
-    "Anno 3/Project management/9. Risks.md",
-    "Resins.md",
-    "Viaggio.md",
-    "Anno 3/Analisi dei dati/lez. 04.03.md",
-    "Anno 3/Analisi dei dati/Lez. 04.01.md",
-    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
-    "Anno 3/Analisi dei dati/Lez. 03.18.md",
-    "^standardizzazione.md",
-    "Anno 2/Basi di Dati II/4. Forme normali.md",
-    "Anno 2/Basi di Dati II/3. Decomposizione.md",
-    "Anno 2/Basi di Dati II/1. Normalizzazione.md",
     "Anno 2/Algebra Lineare/Untitled.canvas",
     "Untitled.canvas"
   ]

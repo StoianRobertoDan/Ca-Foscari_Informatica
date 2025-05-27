@@ -55,40 +55,4 @@ Example:
 | Req4      | 0.62 | 0.15    | 15%    |
 | SUM (= n) | 4    | 1       | 100%   |
 
-Comunication, the rule of 5Cs of written com.:
-- Correct grammar and spelling.
-- Concise expression - elimination of excess words.
-- Clear purpose.
-- Coherent logical flow of ideas.
-- Controlling the flow of the words and ideas- using graphics and needed.
-Comunication grows with more and more people following the rule: n(n) ??
-Project managers cannot control all comunication, trying to do so should keep ...
-Processes of comunications:
-- Listening:
-	- Pretend.
-	- Inattentive.
-	- Misunderstood.
-	- Biased.
-		- Listening for facts and confirmations on personal biases and presumptions. 
-	- Empathetic.
-	- Engaged.
-- Effective listening
-- feedback
-- Nonverbal
-Communication methods:
-- Formal meeting
-- Informal meeting
-- Conference call
-- Web conference
-- Video conference (as web conference but with webcam)
-- Status report
-- E-mail
-- Phone call
-- Voice mail
-- Webinar
-- Blog
-- Social media
-- Extra-net or shared folders
-- Newsletter
-- 
 
