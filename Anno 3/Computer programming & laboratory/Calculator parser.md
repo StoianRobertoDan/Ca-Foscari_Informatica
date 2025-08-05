@@ -1,4 +1,4 @@
-Context free grammar
+Context free grammar 
 
 P -> Rules 
 
