@@ -29,7 +29,7 @@ int tower(int n, char base){
 ```
 
 
-precise sum problem:
+Precise sum problem:
 ```cpp
 bool sum(const vector<int>& p, int s, int from){
 	if(from < v.size())
@@ -41,6 +41,7 @@ bool sum(const vector<int>& p, int s, int from){
 	else return s==0;
 }
 ```
+
 
 Binary search
 ```cpp

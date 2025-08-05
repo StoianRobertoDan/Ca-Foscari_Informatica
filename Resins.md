@@ -13,7 +13,7 @@
 ![[Pasted image 20250328151107.png]]
 ![[Pasted image 20250328151125.png]]
 
-Pribably best:
+Probably best:
 Anycubic ABS-like Pro2 80-90% (27 €/kg) + 
 - SirayaTech Tenacious 20-10% (44 €/kg)
 - Anycubic Tough Ultra 20-10% (38 €/kg)

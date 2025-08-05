@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Project management/2.0. Project Management Knowledge Areas.md",
+                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.0. Project Management Knowledge Areas"
+              "title": "1. Basi di dati"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 3/Project management/1.1. Project Management processes.md",
+                "file": "Anno 2/Analisi Matematica/4. Limiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.1. Project Management processes"
+              "title": "Backlinks for 4. Limiti"
             }
           },
           {
@@ -199,41 +199,42 @@
   },
   "active": "2e63a295840dbf0a",
   "lastOpenFiles": [
-    "Anno 3/Project management/2.1. Agile Methodologies.md",
-    "Anno 3/Project management/2.2 Project Life Cycle.md",
-    "Anno 3/Project management/0. Project and Organisation.md",
-    "Anno 3/Project management/2.0. Project Management Knowledge Areas.md",
-    "Anno 3/Project management/3. Scope, Requirements and Communication.md",
-    "Anno 3/Project management/5. Resources and Team.md",
-    "Anno 3/Project management/4. Project Schedule Management.md",
-    "Anno 3/Project management/8. Project Quality Management.md",
-    "Anno 3/Project management/6. Project Cost Management.md",
+    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
+    "Anno 2/Basi di Dati/Group By.md",
+    "Anno 2/Basi di Dati/Esercizi.md",
+    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
+    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+    "Anno 2/Basi di Dati/Draft SQL.md",
+    "Anno 2/Basi di Dati/2. (draft).md",
+    "Anno 2/Basi di Dati/1. Basi di dati.md",
+    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.24.md",
+    "Anno 3/Basi di Dati/Lez.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 03.05.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 03.03.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.26.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.17.md",
+    "Anno 3/Basi di Dati/Mod.2/2. Keys and canonical cover.md",
+    "Viaggio.md",
+    "Resins.md",
+    "Attachments/Pasted image 20250328151125.png",
+    "Attachments/Pasted image 20250328150737.png",
+    "Attachments/Pasted image 20250328150540.png",
+    "Attachments/Pasted image 20250328150525.png",
     "Anno 3/Project management/9. Project Risks Management.md",
-    "Anno 3/Project management/1. Project Management and Processes.md",
-    "Anno 3/Immagini/Pasted image 20250525165816.png",
     "Anno 3/Project management/Lez. 02.27 From 49 of 3.0.md",
+    "Anno 3/Computer programming & laboratory/Problems.md",
+    "Anno 3/Computer programming & laboratory/Calculator parser.md",
+    "Anno 3/Computer programming & laboratory/Json parser.md",
+    "Anno 3/Computer programming & laboratory/Exercises/10..md",
+    "Anno 3/Computer programming & laboratory/Exercises/9..md",
+    "Anno 3/Computer programming & laboratory/Exercises/8..md",
+    "Anno 3/Immagini/Pasted image 20250525165816.png",
     "Anno 3/Immagini/Pasted image 20250525161119.png",
     "Anno 3/Immagini/Pasted image 20250525155104.png",
     "Anno 3/Immagini/Pasted image 20250525154918.png",
     "Anno 3/Immagini/Pasted image 20250525154829.png",
     "Anno 3/Immagini/Pasted image 20250525002409.png",
-    "Anno 3/Immagini/Pasted image 20250524150735.png",
-    "Anno 3/Immagini/Pasted image 20250524145428.png",
-    "Anno 3/Immagini/Pasted image 20250524144959.png",
-    "Anno 3/Project management/Lez. 02.19.md",
-    "Anno 3/Project management/Untitled 2.md",
-    "Anno 3/Project management/Untitled 1.md",
-    "Anno 1/Spiegazione info venerdì.md",
-    "Anno 1/Appunti double link list.md",
-    "Anno 1/Appunti.md",
-    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
-    "Anno 2/Lez. 20.02.md",
-    "Anno 2/Immagini/Screenshot 2024-01-18 210712.png",
-    "Anno 3/Computer programming & laboratory/Exercises/9..md",
-    "Anno 3/Computer programming & laboratory/Exercises/10..md",
-    "Anno 3/Computer programming & laboratory/Exercises/7..md",
-    "Anno 3/Computer programming & laboratory/Exercises/6..md",
-    "Anno 3/Computer programming & laboratory/Exercises/8..md",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
