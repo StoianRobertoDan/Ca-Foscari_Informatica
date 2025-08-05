@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f9142ed9c76c8f3c",
+    "id": "c639ba058f1da3db",
     "type": "split",
     "children": [
       {
-        "id": "230208df2033a587",
+        "id": "a537c24be7cbe517",
         "type": "tabs",
         "children": [
           {
-            "id": "a6315709553818c6",
+            "id": "2e63a295840dbf0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Algoritmi di chiusura, chiavi e canonizzazione"
+              "title": "1. Basi di dati"
             }
           }
         ]
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d39662cdb6314b09",
+    "id": "e8b8e4c7b72908e4",
     "type": "split",
     "children": [
       {
-        "id": "5880b0a26c71215d",
+        "id": "fab3d35b5dd95a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5e3dfdcd8442b5",
+            "id": "93e3da8ffc7db384",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "a3174f19f3655489",
+            "id": "699beea1a182893f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Standardizza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "4803006f0bb31765",
+            "id": "4e5528a40fb95175",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,48 +91,48 @@
     "width": 300
   },
   "right": {
-    "id": "b038936a00180b91",
+    "id": "9ce204a4ec01be70",
     "type": "split",
     "children": [
       {
-        "id": "42920b249a17a65e",
+        "id": "00129cda49088ef6",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ce7b2373e53361",
+            "id": "088a03ad922a8b4c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+                "file": "Anno 2/Analisi Matematica/4. Limiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Algoritmi di chiusura, chiavi e canonizzazione"
+              "title": "Backlinks for 4. Limiti"
             }
           },
           {
-            "id": "2ee3066f5d0f0310",
+            "id": "da2eb7169724ed30",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+                "file": "Anno 3/Project management/1. Project Management Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Algoritmi di chiusura, chiavi e canonizzazione"
+              "title": "Outgoing links from 1. Project Management Intro"
             }
           },
           {
-            "id": "99289daa32d8b594",
+            "id": "ebde971b947483b5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,25 +147,43 @@
             }
           },
           {
-            "id": "ae8597079f55a16e",
+            "id": "b9320734e7d1c58f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Algoritmi di chiusura, chiavi e canonizzazione"
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "861db5816552062f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3851198c2152871c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,30 +197,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6315709553818c6",
+  "active": "2e63a295840dbf0a",
   "lastOpenFiles": [
-    "Anno 2/Basi di Dati II/1. Normalizzazione.md",
+    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
+    "Anno 2/Basi di Dati/Group By.md",
+    "Anno 2/Basi di Dati/Esercizi.md",
+    "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
+    "Anno 2/Basi di Dati/Esame 29.05.2023.md",
+    "Anno 2/Basi di Dati/Draft SQL.md",
+    "Anno 2/Basi di Dati/2. (draft).md",
     "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
-    "Anno 1/Immagini/Pasted image 20230802213825.png",
-    "Anno 1/Immagini/Pasted image 20230608155130.png",
-    "Anno 1/Immagini/Pasted image 20230601160026.png",
-    "Anno 1/Immagini/Pasted image 20230529151430.png",
-    "Anno 1/Immagini/Pasted image 20230523152649.png",
-    "Anno 1/Immagini/main-qimg-1814b02d79a90243ac5050584618a5e9-lq.jpeg",
-    "Anno 1/Immagini/Pasted image 20230522132906.png",
-    "Anno 1/Architettura degli Elaboratori Mod.2/T1.md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L18, 19 e 20 (Input e Output).md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L11, 12 e 13 (ARMv8A).md",
-    "Anno 1/Architettura degli Elaboratori Mod.2/L6, 7 e 8 (Memoria, Cache, Conflitti).md",
-    "Anno 1/C++/20. Liste.md",
-    "Anno 1/C++/19. Template.md",
-    "Anno 1/C++/18. Overloading degli operatori.md",
-    "Anno 1/C++/16. Discendenza e aggregazione.md",
-    "Anno 1/C++/15. Class.md",
-    "Anno 1/Appunti double link list.md",
-    "Anno 1/Spiegazione info venerdì.md",
-    "Anno 1/Appunti.md",
-    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md"
+    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.24.md",
+    "Anno 3/Basi di Dati/Lez.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 03.05.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 03.03.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.26.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.17.md",
+    "Anno 3/Basi di Dati/Mod.2/2. Keys and canonical cover.md",
+    "Viaggio.md",
+    "Resins.md",
+    "Attachments/Pasted image 20250328151125.png",
+    "Attachments/Pasted image 20250328150737.png",
+    "Attachments/Pasted image 20250328150540.png",
+    "Attachments/Pasted image 20250328150525.png",
+    "Anno 3/Project management/9. Project Risks Management.md",
+    "Anno 3/Project management/Lez. 02.27 From 49 of 3.0.md",
+    "Anno 3/Computer programming & laboratory/Problems.md",
+    "Anno 3/Computer programming & laboratory/Calculator parser.md",
+    "Anno 3/Computer programming & laboratory/Json parser.md",
+    "Anno 3/Computer programming & laboratory/Exercises/10..md",
+    "Anno 3/Computer programming & laboratory/Exercises/9..md",
+    "Anno 3/Computer programming & laboratory/Exercises/8..md",
+    "Anno 3/Immagini/Pasted image 20250525165816.png",
+    "Anno 3/Immagini/Pasted image 20250525161119.png",
+    "Anno 3/Immagini/Pasted image 20250525155104.png",
+    "Anno 3/Immagini/Pasted image 20250525154918.png",
+    "Anno 3/Immagini/Pasted image 20250525154829.png",
+    "Anno 3/Immagini/Pasted image 20250525002409.png",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.out",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c",
+    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
+    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
+    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
+    "Anno 2/Algebra Lineare/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
