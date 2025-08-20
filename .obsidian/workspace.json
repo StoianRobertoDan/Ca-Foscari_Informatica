@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Basi di Dati/1. Basi di dati.md",
+                "file": "Anno 3/Basi di Dati/Mod.1/4. Relational Algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Basi di dati"
+              "title": "4. Relational Algebra"
             }
           }
         ]
@@ -199,15 +199,25 @@
   },
   "active": "2e63a295840dbf0a",
   "lastOpenFiles": [
+    "Anno 3/Basi di Dati/Mod.1/1. Basi di dati.md",
+    "Anno 3/Basi di Dati/Mod.1/2. Models.md",
+    "Anno 3/Basi di Dati/Mod.1/3. ODM-to-Relational Mapping.md",
+    "Anno 3/Basi di Dati/Mod.1/4. Relational Algebra.md",
+    "Anno 3/Immagini/Pasted image 20250815023627.png",
+    "Anno 3/Immagini/Pasted image 20250815023129.png",
+    "Anno 3/Immagini/Pasted image 20250815022603.png",
+    "Anno 3/Immagini/Pasted image 20250815020943.png",
+    "Anno 3/Immagini/Pasted image 20250815020738.png",
+    "Anno 3/Immagini/Pasted image 20250815020006.png",
+    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
+    "Anno 2/Basi di Dati/2. (draft).md",
+    "Anno 3/Basi di Dati/Mod.1",
     "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
     "Anno 2/Basi di Dati/Group By.md",
     "Anno 2/Basi di Dati/Esercizi.md",
     "Anno 2/Basi di Dati/Esercit. 01.12.2023.md",
     "Anno 2/Basi di Dati/Esame 29.05.2023.md",
     "Anno 2/Basi di Dati/Draft SQL.md",
-    "Anno 2/Basi di Dati/2. (draft).md",
-    "Anno 2/Basi di Dati/1. Basi di dati.md",
-    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
     "Anno 3/Basi di Dati/Mod.2/Lez. 02.24.md",
     "Anno 3/Basi di Dati/Lez.md",
     "Anno 3/Basi di Dati/Mod.2/Lez. 03.05.md",
@@ -226,15 +236,6 @@
     "Anno 3/Computer programming & laboratory/Problems.md",
     "Anno 3/Computer programming & laboratory/Calculator parser.md",
     "Anno 3/Computer programming & laboratory/Json parser.md",
-    "Anno 3/Computer programming & laboratory/Exercises/10..md",
-    "Anno 3/Computer programming & laboratory/Exercises/9..md",
-    "Anno 3/Computer programming & laboratory/Exercises/8..md",
-    "Anno 3/Immagini/Pasted image 20250525165816.png",
-    "Anno 3/Immagini/Pasted image 20250525161119.png",
-    "Anno 3/Immagini/Pasted image 20250525155104.png",
-    "Anno 3/Immagini/Pasted image 20250525154918.png",
-    "Anno 3/Immagini/Pasted image 20250525154829.png",
-    "Anno 3/Immagini/Pasted image 20250525002409.png",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
@@ -244,7 +245,6 @@
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
     "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
-    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
     "Anno 2/Algebra Lineare/Untitled.canvas",
     "Untitled.canvas"
   ]
