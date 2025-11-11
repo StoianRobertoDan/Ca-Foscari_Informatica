@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a537c24be7cbe517",
+        "id": "a05af103b82c58b7",
         "type": "tabs",
         "children": [
           {
-            "id": "2e63a295840dbf0a",
+            "id": "9789a9cca8733885",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20250328151125.png"
+                "file": "Anno 3/Basi di Dati/6. Language for DBMS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250328151125"
+              "icon": "lucide-file",
+              "title": "6. Language for DBMS"
             }
           }
         ]
@@ -186,8 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e63a295840dbf0a",
+  "active": "9789a9cca8733885",
   "lastOpenFiles": [
+    "Anno 3/Basi di Dati/5. Normalization Theory.md",
+    "Anno 3/Basi di Dati/4. Relational Algebra.md",
+    "Anno 3/Basi di Dati/2. Models.md",
+    "Images/Pasted image 20250328151125.png",
     "Images/Pasted image 20250328150737.png",
     "Images/Pasted image 20250328150706.png",
     "Images/Pasted image 20250328150525.png",
@@ -195,9 +211,6 @@
     "Untitled.base",
     "Untitled.md",
     "Anno 3/Basi di Dati/6. Language for DBMS.md",
-    "Anno 3/Basi di Dati/5. Normalization Theory.md",
-    "Anno 3/Basi di Dati/4. Relational Algebra.md",
-    "Anno 3/Basi di Dati/2. Models.md",
     "Anno 3/Basi di Dati/1. Basi di dati.md",
     "Anno 3/Basi di Dati/0. SQL Data Types and Constrains.md",
     "Anno 3/Basi di Dati/SQL.md",
@@ -221,8 +234,6 @@
     "Anno 3/Immagini/Pasted image 20250815023129.png",
     "Anno 3/Immagini/Pasted image 20250815022603.png",
     "Anno 3/Immagini/Pasted image 20250815020943.png",
-    "Anno 3/Immagini/Pasted image 20250815020738.png",
-    "Anno 3/Immagini/Pasted image 20250815020006.png",
     "Anno 2/Basi di Dati/2. (draft).md",
     "Anno 3/Basi di Dati/Mod.1",
     "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
