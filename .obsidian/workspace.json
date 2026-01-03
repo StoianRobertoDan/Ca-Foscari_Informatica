@@ -1,21 +1,18 @@
 {
   "main": {
-    "id": "c639ba058f1da3db",
+    "id": "5101da2986f48de4",
     "type": "split",
     "children": [
       {
-        "id": "a05af103b82c58b7",
+        "id": "cdbc9d07deaebdd3",
         "type": "tabs",
         "children": [
           {
-            "id": "9789a9cca8733885",
+            "id": "e244f418a8de1592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
-=======
                 "file": "Anno 3/Basi di Dati/SQL 2.md",
                 "mode": "source",
                 "source": false,
@@ -35,13 +32,12 @@
             }
           },
           {
-            "id": "72d8c10ae6e8c874",
+            "id": "0c7acb1035fbfb86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Basi di Dati/6. Language for DBMS.md",
->>>>>>> Stashed changes
+                "file": "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Ditribuzioni congiunte"
+              "title": "3. Variabili casuali"
             }
           }
         ]
@@ -65,15 +61,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e8b8e4c7b72908e4",
+    "id": "1fe8aa624c280327",
     "type": "split",
     "children": [
       {
-        "id": "fab3d35b5dd95a8f",
+        "id": "95e5dda2461840af",
         "type": "tabs",
         "children": [
           {
-            "id": "93e3da8ffc7db384",
+            "id": "fbf2765ada08d695",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,12 +82,12 @@
             }
           },
           {
-            "id": "699beea1a182893f",
+            "id": "799a58f1f3547c2a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Standardizza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +99,7 @@
             }
           },
           {
-            "id": "4e5528a40fb95175",
+            "id": "2c71166dd9691270",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -119,48 +115,48 @@
     "width": 300
   },
   "right": {
-    "id": "9ce204a4ec01be70",
+    "id": "62faff8e5e410573",
     "type": "split",
     "children": [
       {
-        "id": "00129cda49088ef6",
+        "id": "73c1fe24623a39c4",
         "type": "tabs",
         "children": [
           {
-            "id": "088a03ad922a8b4c",
+            "id": "2a29dd8d7bde0968",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anno 2/Analisi Matematica/4. Limiti.md",
+                "file": "Anno 3/Analisi dei dati/1. Population and sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Limiti"
+              "title": "Backlinks for 1. Population and sample"
             }
           },
           {
-            "id": "da2eb7169724ed30",
+            "id": "5116872f5316d08f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anno 3/Project management/1. Project Management Intro.md",
+                "file": "Anno 3/Analisi dei dati/1. Population and sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Project Management Intro"
+              "title": "Outgoing links from 1. Population and sample"
             }
           },
           {
-            "id": "ebde971b947483b5",
+            "id": "9c4a70f25af84f89",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,35 +171,18 @@
             }
           },
           {
-            "id": "b9320734e7d1c58f",
+            "id": "40015ac866b3e831",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Anno 3/Analisi dei dati/1. Population and sample.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          }
-        ]
-      },
-      {
-        "id": "861db5816552062f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3851198c2152871c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Outline of 1. Population and sample"
             }
           }
         ]
@@ -215,91 +194,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9789a9cca8733885",
+  "active": "e244f418a8de1592",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
-    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-    "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
-    "Anno 2/Probabilità e statistica/Prob draft.md",
-    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
-    "Anno 2/Probabilità e statistica/2. Probabilità condizionata.md",
-    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
-    "Anno 2/Analisi Matematica/7. Proprietà locali.md",
-    "Anno 2/Analisi Matematica/6. Derivate.md",
-    "Anno 2/Analisi Matematica/2. Funzioni.md",
-    "Anno 2/Analisi Matematica/1. Insiemi.md",
-    "Anno 3/Computer programming & laboratory/Exercises/7..md",
-    "Anno 3/Computer programming & laboratory/Exercises/5..md",
-    "Anno 3/Computer programming & laboratory/Exercises/1..md",
-    "Anno 3/Analisi dei dati/0. Prerequisites.md",
-    "Anno 3/Analisi dei dati/lez. 04.03.md",
-    "Anno 3/Analisi dei dati/Lez. 04.01.md",
-    "Anno 3/Analisi dei dati/Lez. 03.18.md",
-    "Anno 3/Analisi dei dati/Lez. 03.06.md",
-    "Anno 3/Analisi dei dati/Lez. 02.25.md",
-    "Anno 3/Analisi dei dati/1. Population and sample.md",
-    "Anno 3/Basi di Dati/6. Language for DBMS.md",
-    "Anno 3/Basi di Dati/1. Basi di dati.md",
-    "Anno 3/Basi di Dati/2. Models.md",
-=======
-    "Anno 3/Basi di Dati/6. Language for DBMS.md",
     "Anno 3/Basi di Dati/SQL 2.md",
     "Anno 3/Basi di Dati/SQL 1.md",
-    "Anno 3/Basi di Dati/Lez.md",
-    "Anno 3/Basi di Dati/5. Normalization Theory.md",
-    "Anno 3/Basi di Dati/1. Basi di dati.md",
-    "Anno 3/Basi di Dati/2. Models.md",
-    "Anno 3/Basi di Dati/3. ODM-to-Relational Mapping.md",
-    "Anno 3/Basi di Dati/4. Relational Algebra.md",
->>>>>>> Stashed changes
-    "Untitled 1.base",
-    "Untitled.base",
-    "Images/Pasted image 20250328151125.png",
-    "Images/Pasted image 20250328150737.png",
-    "Images/Pasted image 20250328150706.png",
-    "Images/Pasted image 20250328150525.png",
-<<<<<<< Updated upstream
-=======
-    "Untitled 1.md",
-    "Untitled.md",
-    "Anno 3/Basi di Dati/0. SQL Data Types and Constrains.md",
-    "Anno 3/Basi di Dati/Mod.1/Untitled.md",
-    "Anno 3/Basi di Dati/Mod.2/Lez. 02.24.md",
-    "Anno 3/Basi di Dati/Mod.2/2. Keys and canonical cover.md",
-    "Anno 3/Basi di Dati/Mod.2/Lez. 02.17.md",
-    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
-    "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
-    "Anno 2/Basi di Dati II/1. Normalizzazione.md",
->>>>>>> Stashed changes
-    "Images/Pasted image 20250328151107.png",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Anno 3/Immagini/Pasted image 20250815023627.png",
-    "Anno 3/Immagini/Pasted image 20250815023129.png",
-    "Anno 3/Immagini/Pasted image 20250815022603.png",
-    "Anno 3/Immagini/Pasted image 20250815020943.png",
-    "Anno 3/Basi di Dati/Mod.1",
-    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
-    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
-    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
-    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
-    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.out",
-    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c",
-    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
-    "Anno 2/Algebra Lineare/Untitled.canvas",
-    "Untitled.canvas"
+    "Anno 3/Basi di Dati/6. Language for DBMS.md",
+    "Anno 3/Analisi dei dati/1. Population and sample.md",
+    "Anno 3/Analisi dei dati/1.1 Graphical statistics.md",
+    "Anno 3/Immagini/Pasted image 20251204211701.png",
+    "Anno 3/Immagini/Pasted image 20251204211506.png",
+    "Anno 3/Immagini/Pasted image 20251204202454.png",
+    "Anno 3/Analisi dei dati/Lez. 02.18.md",
+    "Anno 3/Immagini/Pasted image 20251127222528.png",
+    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+    "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
+    "Anno 2/Probabilità e statistica/Calcolo combinatorio.md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
+    "Anno 3/Analisi dei dati/0. Prerequisites.md"
   ]
 }
