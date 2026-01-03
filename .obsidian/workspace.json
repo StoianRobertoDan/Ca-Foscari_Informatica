@@ -14,6 +14,33 @@
               "type": "markdown",
               "state": {
                 "file": "Anno 3/Basi di Dati/SQL 2.md",
+<<<<<<< Updated upstream
+=======
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SQL 2"
+            }
+          },
+          {
+            "id": "72d8c10ae6e8c874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 3/Basi di Dati/6. Language for DBMS.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -207,6 +234,7 @@
   },
   "active": "e244f418a8de1592",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
     "Anno 3/Basi di Dati/SQL 2.md",
     "Anno 3/Basi di Dati/SQL 1.md",
@@ -224,5 +252,55 @@
     "Anno 2/Probabilità e statistica/Cose importanti.md",
     "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 3/Analisi dei dati/0. Prerequisites.md"
+=======
+    "Anno 3/Basi di Dati/6. Language for DBMS.md",
+    "Anno 3/Basi di Dati/SQL 2.md",
+    "Anno 3/Basi di Dati/SQL 1.md",
+    "Anno 3/Basi di Dati/Lez.md",
+    "Anno 3/Basi di Dati/5. Normalization Theory.md",
+    "Anno 3/Basi di Dati/1. Basi di dati.md",
+    "Anno 3/Basi di Dati/2. Models.md",
+    "Anno 3/Basi di Dati/3. ODM-to-Relational Mapping.md",
+    "Anno 3/Basi di Dati/4. Relational Algebra.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Images/Pasted image 20250328151125.png",
+    "Images/Pasted image 20250328150737.png",
+    "Images/Pasted image 20250328150706.png",
+    "Images/Pasted image 20250328150525.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Anno 3/Basi di Dati/0. SQL Data Types and Constrains.md",
+    "Anno 3/Basi di Dati/Mod.1/Untitled.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.24.md",
+    "Anno 3/Basi di Dati/Mod.2/2. Keys and canonical cover.md",
+    "Anno 3/Basi di Dati/Mod.2/Lez. 02.17.md",
+    "Anno 3/Basi di Dati/Mod.2/1. Dependence and closure.md",
+    "Anno 2/Basi di Dati II/2. Algoritmi di chiusura, chiavi e canonizzazione.md",
+    "Anno 2/Basi di Dati II/1. Normalizzazione.md",
+    "Images/Pasted image 20250328151107.png",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Resins.md",
+    "Viaggio.md",
+    "Anno 1/C++/15. Class.md",
+    "Anno 3/Immagini/Pasted image 20250815023627.png",
+    "Anno 3/Immagini/Pasted image 20250815023129.png",
+    "Anno 3/Immagini/Pasted image 20250815022603.png",
+    "Anno 3/Immagini/Pasted image 20250815020943.png",
+    "Anno 2/Basi di Dati/2. (draft).md",
+    "Anno 3/Basi di Dati/Mod.1",
+    "Anno 2/Basi di Dati/Terminologia (da ordinare).md",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/a.out",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/tmp",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/a.out",
+    "Materiali/Computer programming and laboratory/Exercises/LanguageParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdC/CMakeCCompilerId.c",
+    "Materiali/Computer programming and laboratory/Exercises/JsonParser/cmake-build-debug/CMakeFiles/3.29.6/CompilerIdCXX/tmp",
+    "Anno 2/Algebra Lineare/Untitled.canvas",
+    "Untitled.canvas"
+>>>>>>> Stashed changes
   ]
 }
