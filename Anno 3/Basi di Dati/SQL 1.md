@@ -61,11 +61,30 @@ select ae.name
 from AfricaEng ae join AfricaFr af on ae.code=af.code;
 ```
 
-altro 7.
+Altro 7.
 ```sql
 SELECT name
 FROM country JOIN countrylanguage l1 ON code = l1.countrycode JOIN countrylanguage l2 ON code = l2.countrycode 
 WHERE (l1.language = 'English' AND l1.isofficial) AND (l2.language = 'French' AND l2.isofficial) AND continent = 'Africa'
+```
+
+Altro 7.
+```sql
+SELECT name
+FROM country
+WHERE continent = 'Africa'
+  AND code IN (
+      SELECT countrycode
+      FROM countrylanguage
+      WHERE isofficial = true
+        AND language = 'English'
+  )
+  AND code IN (
+      SELECT countrycode
+      FROM countrylanguage
+      WHERE isofficial = true
+        AND language = 'French'
+  )
 ```
 
 8. Numero di nazioni per cui non esiste una città che abbia più abitanti della capitale di quella nazione. Si devono considerare solo le nazioni che hanno una capitale nota.
@@ -76,6 +95,21 @@ WHERE c.population = (
 	SELECT MAX(population)
 	FROM city
 	WHERE countrycode = c.countrycode)
+```
+
+Altro 8.
+```sql
+SELECT COUNT(*)
+FROM country
+WHERE capital IN (
+    SELECT id
+    FROM city c
+    WHERE population = (
+        SELECT MAX(population)
+        FROM city
+        WHERE countrycode = c.countrycode
+    )
+)
 ```
 
 9. Numero di nazioni per cui si conosce SOLO la capitale come città
