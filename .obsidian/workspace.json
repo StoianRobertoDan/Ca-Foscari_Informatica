@@ -54,57 +54,8 @@
               "icon": "lucide-file",
               "title": "5. Distribuzioni di variabili aleatorie continue"
             }
-          },
-          {
-            "id": "92b9238f60b1795a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3. Variabili casuali"
-            }
-          },
-          {
-            "id": "cb5200326ced1dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Analisi Matematica/6. Derivate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "6. Derivate"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,32 +202,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb5200326ced1dab",
+  "active": "a10b81437107922e",
   "lastOpenFiles": [
+    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
+    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
+    "Anno 2/Probabilità e statistica/2. Probabilità condizionata.md",
+    "Anno 3/Analisi dei dati/1. Population, sample and statistics.md",
+    "Anno 3/Analisi dei dati/2. Estimation and confidence intervals.md",
+    "Anno 3/Analisi dei dati/Lez. 02.18.md",
+    "Anno 3/Analisi dei dati/1.1 Graphical statistics.md",
+    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+    "Anno 3/Reti di calcolatori/Network layer.md",
+    "Anno 3/Reti di calcolatori/Datalink layer.md",
+    "Anno 3/Calculus II/Untitled.md",
+    "Anno 2/Analisi Matematica/6. Derivate.md",
+    "Anno 3/Calculus II",
     "Anno 2/Analisi Matematica/5. Funzioni continue e limiti notevoli.md",
     "Anno 2/Analisi Matematica/4. Limiti.md",
     "Anno 2/Analisi Matematica/2. Funzioni.md",
     "Anno 2/Analisi Matematica/3. Funzioni elementari.md",
-    "Anno 3/Analisi dei dati/1. Population, sample and statistics.md",
-    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
-    "Anno 3/Analisi dei dati/1.1 Graphical statistics.md",
-    "Anno 3/Analisi dei dati/Lez. 02.18.md",
     "Anno 3/Basi di Dati/SQL 2.md",
     "Anno 3/Analisi dei dati/0. Prerequisites.md",
-    "Anno 3/Reti di calcolatori/Datalink layer.md",
-    "Anno 3/Reti di calcolatori/Network layer.md",
     "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
     "Anno 3/Basi di Dati/6. Language for DBMS.md",
     "Anno 3/Basi di Dati/Lez.md",
     "Anno 3/Basi di Dati/SQL 1.md",
     "Anno 3/Basi di Dati/4. Relational Algebra.md",
     "Anno 3/Basi di Dati/3. ODM-to-Relational Mapping.md",
-    "Anno 3/Basi di Dati/5. Normalization Theory.md",
-    "Anno 3/Basi di Dati/2. Models.md",
-    "Anno 3/Basi di Dati/1. Basi di dati.md",
-    "Anno 3/Basi di Dati/0. SQL Data Types and Constrains.md",
-    "Anno 2/Basi di Dati/2. (draft).md"
+    "Anno 3/Basi di Dati/5. Normalization Theory.md"
   ]
 }
