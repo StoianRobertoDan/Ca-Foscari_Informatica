@@ -57,7 +57,7 @@ BAYES
 2. La formula delle probabilità composte (per il numeratore): $$\mathbb{P}[C_m\cap A] = \mathbb{P}[C_m]\mathbb{P}[A|C_m]$$
 3. La legge della probabilità totale (per il denominatore): $$\mathbb{P}[A] = \sum_i \mathbb{P}[A|C_i]\mathbb{P}[C_i]$$
 ![[Pasted image 20240123191430.png]]
-Sia data la partizione C1, C2, . . . e tutti i suoi elementi abbiano probabilità positiva. Sia A un ulteriore evento, anch’esso con probabilità positiva. Fissiamo l’attenzione su uno specifico elemento Cm della partizione. Abbiamo allora $$\mathbb{P}[C_{m}|A] == \frac{\mathbb{P}[A|C_m] \mathbb{P}[C_m]}{\sum\limits_{i} \mathbb{P}[A|C_i] \mathbb{P}[C_i]}$$
+Sia data la partizione $C_{1} , C_{2} , . . .$ e tutti i suoi elementi abbiano probabilità positiva. Sia A un ulteriore evento, anch’esso con probabilità positiva. Fissiamo l’attenzione su uno specifico elemento $C_{m}$ della partizione. Abbiamo allora $$\mathbb{P}[C_{m}|A] == \frac{\mathbb{P}[A|C_m] \mathbb{P}[C_m]}{\sum\limits_{i} \mathbb{P}[A|C_i] \mathbb{P}[C_i]}$$
 ![[Pasted image 20240123204231.png]]
 ES: ![[Pasted image 20240123204602.png]]
 
