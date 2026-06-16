@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Analisi dei dati/2. Estimation methods.md",
+                "file": "Anno 3/Analisi dei dati/3. Intervals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Estimation methods"
+              "title": "3. Intervals"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Analisi dei dati/2.1. Examples.md",
+                "file": "Anno 3/Analisi dei dati/1.1. Statistics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.1. Examples"
+              "title": "1.1. Statistics"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
+                "file": "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Variabili casuali"
+              "title": "5. Distribuzioni di variabili aleatorie continue"
             }
           }
         ]
@@ -229,18 +229,19 @@
   "active": "a10b81437107922e",
   "lastOpenFiles": [
     "Anno 3/Analisi dei dati/1.1. Statistics.md",
+    "Anno 3/Analisi dei dati/3. Intervals.md",
     "Anno 3/Analisi dei dati/2. Estimation methods.md",
-    "Anno 3/Analisi dei dati/2.1. Examples.md",
     "Anno 3/Analisi dei dati/1.2 Graphical statistics.md",
+    "Anno 3/Immagini/Pasted image 20260615175807.png",
     "Anno 3/Analisi dei dati/1. Population, sample and notations.md",
-    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-    "Anno 3/Analisi dei dati/3. Confidence.md",
-    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
     "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
+    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
+    "Anno 3/Analisi dei dati/2.1. Examples.md",
+    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+    "Anno 3/Analisi dei dati/0. Prerequisites.md",
     "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
     "Anno 2/Probabilità e statistica/Cose importanti.md",
     "Anno 3/Project management/2.2. Project Life Cycle.md",
-    "Anno 3/Analisi dei dati/0. Prerequisites.md",
     "Anno 3/Immagini/Pasted image 20260602201957.png",
     "Fisher information.md",
     "precision.md",
@@ -254,7 +255,6 @@
     "Anno 3/Analisi dei dati/Lez. 02.25.md",
     "Anno 3/Analisi dei dati/Lez. 02.18.md",
     "Anno 3/Reti di calcolatori/Network layer.md",
-    "Anno 3/Reti di calcolatori/Datalink layer.md",
     "Anno 3/Calculus II"
   ]
 }
