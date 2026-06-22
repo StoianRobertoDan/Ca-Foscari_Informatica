@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Analisi dei dati/1.1. Statistics.md",
+                "file": "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1. Statistics"
+              "title": "4. Hypothesis testing"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "5. Distribuzioni di variabili aleatorie continue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,15 +227,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a10b81437107922e",
+  "active": "98221b7160cf28aa",
   "lastOpenFiles": [
-    "Anno 3/Analisi dei dati/1.1. Statistics.md",
     "Anno 3/Analisi dei dati/3. Intervals.md",
+    "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
+    "Anno 3/Immagini/Pasted image 20260619112456.png",
+    "Anno 3/Immagini/Pasted image 20260619112202.png",
+    "Anno 3/Immagini/Pasted image 20260619112149.png",
+    "Anno 3/Immagini/Pasted image 20260619105344.png",
+    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
+    "Anno 3/Immagini/Pasted image 20260618204543.png",
+    "Anno 3/Analisi dei dati/1.1. Statistics.md",
     "Anno 3/Analisi dei dati/2. Estimation methods.md",
     "Anno 3/Analisi dei dati/1.2 Graphical statistics.md",
     "Anno 3/Immagini/Pasted image 20260615175807.png",
     "Anno 3/Analisi dei dati/1. Population, sample and notations.md",
-    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
     "Anno 3/Analisi dei dati/2.1. Examples.md",
     "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
@@ -254,7 +261,6 @@
     "Anno 3/Analisi dei dati/Lez. 03.06.md",
     "Anno 3/Analisi dei dati/Lez. 02.25.md",
     "Anno 3/Analisi dei dati/Lez. 02.18.md",
-    "Anno 3/Reti di calcolatori/Network layer.md",
     "Anno 3/Calculus II"
   ]
 }
