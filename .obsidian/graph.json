@@ -1,22 +1,44 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Anno 2/Programmazione e Laboratorio\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Anno 2/Probabilità e statistica\" OR path:\"Anno 3/Analisi dei dati\"",
+      "color": {
+        "a": 1,
+        "rgb": 54783
+      }
+    },
+    {
+      "query": "path:\"Anno 2/Basi di Dati\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.4,
-  "nodeSizeMultiplier": 1.74654523000926,
-  "lineSizeMultiplier": 1.26244519913554,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.05636924976845,
+  "lineSizeMultiplier": 1.9982772460636,
   "collapse-forces": false,
-  "centerStrength": 0.618654392852308,
-  "repelStrength": 12.459726546636,
-  "linkStrength": 1,
-  "linkDistance": 174,
-  "scale": 0.2475233908196915,
+  "centerStrength": 0.517814140166718,
+  "repelStrength": 10.5933930225378,
+  "linkStrength": 0.984130904600185,
+  "linkDistance": 30,
+  "scale": 0.19141910610449248,
   "close": false
 }

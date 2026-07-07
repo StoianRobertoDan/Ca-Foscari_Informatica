@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a10b81437107922e",
+            "id": "98221b7160cf28aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Analisi dei dati/3. Intervals.md",
+                "file": "Anno 3/Analisi dei dati/1.1. Statistics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Intervals"
+              "title": "1.1. Statistics"
             }
           },
           {
-            "id": "98221b7160cf28aa",
+            "id": "864e9a76eb6f4148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anno 3/Analisi dei dati/5. Dependencies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5. Dependencies"
+            }
+          },
+          {
+            "id": "e9a174cdf45dad50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +80,17 @@
             }
           },
           {
-            "id": "e9a174cdf45dad50",
+            "id": "267299a7a3219999",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5. Distribuzioni di variabili aleatorie continue"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,40 +237,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98221b7160cf28aa",
+  "active": "e9a174cdf45dad50",
   "lastOpenFiles": [
+    "Anno 3/Analisi dei dati/3.1. Examples.md",
     "Anno 3/Analisi dei dati/3. Intervals.md",
+    "Anno 3/Analisi dei dati/4.1. Examples.md",
     "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
+    "Anno 3/Analisi dei dati/5. Dependencies.md",
+    "Anno 3/Analisi dei dati/1.1. Statistics.md",
+    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
+    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
+    "Anno 3/Analisi dei dati/2. Estimation methods.md",
+    "Anno 3/Analisi dei dati/1.2 Graphical statistics.md",
+    "Anno 3/Analisi dei dati/1. Population, sample and notations.md",
+    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+    "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
+    "Anno 3/Immagini/Pasted image 20260706211543.png",
+    "Untitled.canvas",
+    "1. Population, sample and notations^498016.md",
+    "Anno 2/Probabilità e statistica/2. Probabilità condizionata.md",
+    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 3/Analisi dei dati/0. Prerequisites.md",
+    "Anno 3/Immagini/Pasted image 20260701161921.png",
+    "Anno 3/Immagini/Pasted image 20260701161143.png",
+    "Anno 3/Analisi dei dati/2.1. Examples.md",
+    "2. Estimation methods^c1cff4.md",
+    "3. Intervals^c1cff4.md",
+    "Anno 3/Analisi dei dati/Lez. 04.01.md",
+    "Anno 3/Analisi dei dati/lez. 04.03.md",
+    "Untitled.md",
+    "Anno 3/Immagini/Pasted image 20260625112457.png",
     "Anno 3/Immagini/Pasted image 20260619112456.png",
     "Anno 3/Immagini/Pasted image 20260619112202.png",
     "Anno 3/Immagini/Pasted image 20260619112149.png",
     "Anno 3/Immagini/Pasted image 20260619105344.png",
-    "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 3/Immagini/Pasted image 20260618204543.png",
-    "Anno 3/Analisi dei dati/1.1. Statistics.md",
-    "Anno 3/Analisi dei dati/2. Estimation methods.md",
-    "Anno 3/Analisi dei dati/1.2 Graphical statistics.md",
     "Anno 3/Immagini/Pasted image 20260615175807.png",
-    "Anno 3/Analisi dei dati/1. Population, sample and notations.md",
-    "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-    "Anno 3/Analisi dei dati/2.1. Examples.md",
-    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
-    "Anno 3/Analisi dei dati/0. Prerequisites.md",
-    "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
     "Anno 3/Project management/2.2. Project Life Cycle.md",
-    "Anno 3/Immagini/Pasted image 20260602201957.png",
     "Fisher information.md",
-    "precision.md",
-    "Anno 2/Probabilità e statistica/2. Probabilità condizionata.md",
-    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
-    "Anno 3/Analisi dei dati/lez. 04.03.md",
-    "Anno 3/Analisi dei dati/Lez. 04.01.md",
-    "Anno 3/Analisi dei dati/Lez. 03.18.md",
-    "Anno 3/Analisi dei dati/Lez. 03.11.md",
-    "Anno 3/Analisi dei dati/Lez. 03.06.md",
-    "Anno 3/Analisi dei dati/Lez. 02.25.md",
-    "Anno 3/Analisi dei dati/Lez. 02.18.md",
     "Anno 3/Calculus II"
   ]
 }
