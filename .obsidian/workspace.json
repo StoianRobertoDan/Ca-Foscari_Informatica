@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d53bbefa368c2c8",
+        "id": "9ac75e778260df23",
         "type": "tabs",
         "children": [
           {
-            "id": "98221b7160cf28aa",
+            "id": "7ed2f9d5af9b2474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
+                "file": "Anno 3/Calculus II/1. Improper Integrals.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,103 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Hypothesis testing"
-            }
-          },
-          {
-            "id": "fe3468212a37d321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4. Distribuzioni di variabili aleatorie discrete"
-            }
-          },
-          {
-            "id": "864e9a76eb6f4148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 3/Analisi dei dati/5. Dependencies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5. Dependencies"
-            }
-          },
-          {
-            "id": "e9a174cdf45dad50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 3/Analisi dei dati/2. Estimation methods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2. Estimation methods"
-            }
-          },
-          {
-            "id": "267299a7a3219999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4. Hypothesis testing"
+              "title": "1. Improper Integrals"
             }
           }
         ]
@@ -186,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a58b83224622e86",
@@ -202,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Anno 3/Calculus II/1. Improper Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,6 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Anno 3/Calculus II/1. Improper Integrals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -272,28 +179,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98221b7160cf28aa",
+  "active": "7ed2f9d5af9b2474",
   "lastOpenFiles": [
-    "Anno 3/Analisi dei dati/4.1. Examples.md",
+    "Anno 2/Analisi Matematica/5. Funzioni continue e limiti notevoli.md",
+    "Anno 2/Analisi Matematica/4. Limiti.md",
+    "Anno 3/Calculus II/1. Improper Integrals.md",
     "Anno 3/Analisi dei dati/5. Dependencies.md",
-    "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
-    "Anno 3/Analisi dei dati/3. Intervals.md",
-    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
-    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
-    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 3/Analisi dei dati/4.1. Examples.md",
     "Anno 3/Analisi dei dati/3.1. Examples.md",
-    "Anno 3/Analisi dei dati/2. Estimation methods.md",
-    "Anno 3/Analisi dei dati/1.1. Statistics.md",
     "Anno 3/Analisi dei dati/2.1. Examples.md",
+    "Anno 3/Analisi dei dati/3. Intervals.md",
+    "Anno 3/Analisi dei dati/1.2 Graphical statistics.md",
+    "Anno 2/Analisi Matematica/9. Polinomio di Taylor.md",
+    "Anno 2/Analisi Matematica/8. Studio di una funzione.md",
+    "Anno 2/Analisi Matematica/7. Proprietà locali.md",
+    "Anno 2/Analisi Matematica/6. Derivate.md",
+    "Anno 2/Analisi Matematica/2. Funzioni.md",
+    "Anno 2/Analisi Matematica/1. Insiemi.md",
+    "Anno 3/Analisi dei dati/4. Hypothesis testing.md",
+    "Anno 3/Analisi dei dati/2. Estimation methods.md",
+    "Anno 2/Probabilità e statistica/4. Distribuzioni di variabili aleatorie discrete.md",
+    "Anno 2/Probabilità e statistica/1. Probabilità elementare.md",
+    "Anno 2/Probabilità e statistica/Cose importanti.md",
+    "Anno 3/Analisi dei dati/1.1. Statistics.md",
     "Anno 3/Analisi dei dati/1. Population, sample and notations.md",
     "Anno 2/Probabilità e statistica/6. Ditribuzioni congiunte.md",
     "Anno 2/Probabilità e statistica/5. Distribuzioni di variabili aleatorie continue.md",
     "Anno 2/Probabilità e statistica/3. Variabili casuali.md",
-    "Anno 3/Analisi dei dati/1.2 Graphical statistics.md",
     "Anno 3/Diritto dell'Informatica/1..md",
     "Anno 3/Diritto dell'Informatica",
     "Anno 3/Immagini/Pasted image 20251127222528.png",
@@ -307,15 +222,6 @@
     "Anno 3/Immagini/Pasted image 20260619112149.png",
     "Anno 3/Immagini/Pasted image 20260619112202.png",
     "Untitled.canvas",
-    "1. Population, sample and notations^498016.md",
-    "Anno 2/Probabilità e statistica/2. Probabilità condizionata.md",
-    "Anno 3/Analisi dei dati/0. Prerequisites.md",
-    "2. Estimation methods^c1cff4.md",
-    "3. Intervals^c1cff4.md",
-    "Anno 3/Analisi dei dati/Lez. 04.01.md",
-    "Anno 3/Analisi dei dati/lez. 04.03.md",
-    "Untitled.md",
-    "Anno 3/Project management/2.2. Project Life Cycle.md",
     "Anno 3/Calculus II"
   ]
 }
